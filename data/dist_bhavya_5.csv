@@ -1,1415 +1,1415 @@
 state_id,smdist,prop_internet_access,prop_mobile_access,gender
-jammu & kashmir,kupwara,0,.98039216,0
-jammu & kashmir,badgam,0,.95930231,0
+jammu & kashmir,kupwara,0,0.98039216,0
+jammu & kashmir,badgam,0,0.95930231,0
 ladakh,leh(ladakh),0,1,0
-ladakh,kargil,0,.9834711,0
-jammu & kashmir,punch,0,.97333336,0
-jammu & kashmir,rajouri,0,.98675501,0
-jammu & kashmir,kathua,0,.98666668,0
-jammu & kashmir,baramula,0,.93599999,0
-jammu & kashmir,bandipore,0,.95384622,0
-jammu & kashmir,srinagar,0,.98550725,0
-jammu & kashmir,ganderbal,0,.97600001,0
-jammu & kashmir,pulwama,0,.94701988,0
-jammu & kashmir,shupiyan,0,.99324322,0
-jammu & kashmir,anantnag,0,.97599995,0
+ladakh,kargil,0,0.9834711,0
+jammu & kashmir,punch,0,0.97333336,0
+jammu & kashmir,rajouri,0,0.98675501,0
+jammu & kashmir,kathua,0,0.98666668,0
+jammu & kashmir,baramula,0,0.93599999,0
+jammu & kashmir,bandipore,0,0.95384622,0
+jammu & kashmir,srinagar,0,0.98550725,0
+jammu & kashmir,ganderbal,0,0.97600001,0
+jammu & kashmir,pulwama,0,0.94701988,0
+jammu & kashmir,shupiyan,0,0.99324322,0
+jammu & kashmir,anantnag,0,0.97599995,0
 jammu & kashmir,kulgam,0,1,0
 jammu & kashmir,doda,0,1,0
-jammu & kashmir,ramban,0,.99328864,0
-jammu & kashmir,kishtwar,0,.82857144,0
-jammu & kashmir,udhampur,0,.98275864,0
-jammu & kashmir,reasi,0,.97345132,0
-jammu & kashmir,jammu,0,.97600001,0
-jammu & kashmir,samba,0,.99082571,0
-himachal pradesh,chamba,0,.98795182,0
-himachal pradesh,kangra,0,.96103901,0
+jammu & kashmir,ramban,0,0.99328864,0
+jammu & kashmir,kishtwar,0,0.82857144,0
+jammu & kashmir,udhampur,0,0.98275864,0
+jammu & kashmir,reasi,0,0.97345132,0
+jammu & kashmir,jammu,0,0.97600001,0
+jammu & kashmir,samba,0,0.99082571,0
+himachal pradesh,chamba,0,0.98795182,0
+himachal pradesh,kangra,0,0.96103901,0
 himachal pradesh,lahul & spiti,0,1,0
-himachal pradesh,kullu,0,.97297299,0
-himachal pradesh,mandi,0,.97402596,0
-himachal pradesh,hamirpur,0,.98507464,0
-himachal pradesh,una,0,.9285714,0
+himachal pradesh,kullu,0,0.97297299,0
+himachal pradesh,mandi,0,0.97402596,0
+himachal pradesh,hamirpur,0,0.98507464,0
+himachal pradesh,una,0,0.9285714,0
 himachal pradesh,bilaspur,0,1,0
-himachal pradesh,solan,0,.97777784,0
-himachal pradesh,sirmaur,0,.91390735,0
-himachal pradesh,shimla,0,.97368419,0
-himachal pradesh,kinnaur,0,.9834711,0
-punjab,kapurthala,0,.98051947,0
-punjab,jalandhar,0,.91489363,0
-punjab,hoshiarpur,0,.96774191,0
-punjab,shahid bhagat singh nagar,0,.95061731,0
-punjab,fatehgarh sahib,0,.94557822,0
-punjab,ludhiana,0,.94776112,0
-punjab,moga,0,.94117647,0
-punjab,muktsar,0,.90173411,0
-punjab,faridkot,0,.8943662,0
-punjab,bathinda,0,.90967751,0
-punjab,mansa,0,.90196079,0
-punjab,patiala,0,.96478873,0
-punjab,amritsar,0,.90532547,0
-punjab,tarn taran,0,.85401452,0
-punjab,rupnagar,0,.95412844,0
-punjab,sahibzada ajit singh nagar,0,.95327103,0
-punjab,sangrur,0,.91333336,0
-punjab,barnala,0,.92405063,0
-chandigarh,chandigarh,0,.93269235,0
-uttarakhand,uttarkashi,0,.88484848,0
-uttarakhand,chamoli,0,.92105263,0
-uttarakhand,rudraprayag,0,.91666669,0
-uttarakhand,tehri garhwal,0,.8918919,0
-uttarakhand,dehradun,0,.97849464,0
-uttarakhand,garhwal,0,.88749999,0
-uttarakhand,pithoragarh,0,.91724139,0
-uttarakhand,bageshwar,0,.85840708,0
-uttarakhand,almora,0,.8901099,0
-uttarakhand,champawat,0,.91156465,0
-uttarakhand,nainital,0,.89032257,0
-uttarakhand,udham singh nagar,0,.88811189,0
-uttarakhand,hardwar,0,.80165291,0
-haryana,panchkula,0,.91566265,0
-haryana,ambala,0,.89999998,0
-haryana,yamunanagar,0,.90104163,0
-haryana,kurukshetra,0,.9130435,0
-haryana,kaithal,0,.88659793,0
-haryana,karnal,0,.94554454,0
-haryana,panipat,0,.88811189,0
-haryana,sonipat,0,.93589741,0
-haryana,jind,0,.88050312,0
-haryana,fatehabad,0,.89655173,0
-haryana,sirsa,0,.85714287,0
-haryana,hisar,0,.92105263,0
-haryana,rohtak,0,.89208633,0
-haryana,jhajjar,0,.86619717,0
-haryana,mahendragarh,0,.88414627,0
-haryana,rewari,0,.89333332,0
-haryana,gurgaon,0,.95918369,0
-haryana,mewat,0,.9245283,0
-haryana,faridabad,0,.89130437,0
-haryana,palwal,0,.89005238,0
-rajasthan,ganganagar,0,.94618827,0
-rajasthan,hanumangarh,0,.95067263,0
-rajasthan,bikaner,0,.95020747,0
-rajasthan,churu,0,.88,0
-rajasthan,jhunjhunun,0,.95698923,0
-rajasthan,alwar,0,.92105263,0
-rajasthan,bharatpur,0,.88690478,0
-rajasthan,dhaulpur,0,.8021391,0
-rajasthan,karauli,0,.88636363,0
-rajasthan,sawai madhopur,0,.89830506,0
-rajasthan,dausa,0,.875,0
-rajasthan,jaipur,0,.92929292,0
-rajasthan,sikar,0,.91133004,0
-rajasthan,nagaur,0,.92307693,0
-rajasthan,jodhpur,0,.90794981,0
-rajasthan,jaisalmer,0,.9156118,0
-rajasthan,barmer,0,.90717298,0
-rajasthan,jalor,0,.84455955,0
-rajasthan,sirohi,0,.89473689,0
-rajasthan,pali,0,.95597482,0
-rajasthan,ajmer,0,.9383561,0
-rajasthan,tonk,0,.91443849,0
-rajasthan,bundi,0,.93157893,0
-rajasthan,bhilwara,0,.91812867,0
-rajasthan,rajsamand,0,.94736844,0
-rajasthan,dungarpur,0,.88340807,0
-rajasthan,banswara,0,.85882354,0
-rajasthan,chittaurgarh,0,.91489363,0
-rajasthan,kota,0,.95569623,0
-rajasthan,baran,0,.88546258,0
-rajasthan,jhalawar,0,.9039548,0
-rajasthan,udaipur,0,.91099477,0
-rajasthan,pratapgarh,0,.81920904,0
-uttar pradesh,saharanpur,0,.89617485,0
-uttar pradesh,bijnor,0,.84831458,0
-uttar pradesh,rampur,0,.91034484,0
-uttar pradesh,jyotiba phule nagar,0,.94545454,0
-uttar pradesh,meerut,0,.89349115,0
-uttar pradesh,baghpat,0,.87684727,0
-uttar pradesh,gautam buddha nagar,0,.95789468,0
-uttar pradesh,bulandshahr,0,.89999998,0
-uttar pradesh,aligarh,0,.88965517,0
-uttar pradesh,mahamaya nagar,0,.83561641,0
-uttar pradesh,mathura,0,.82716048,0
-uttar pradesh,agra,0,.87421381,0
-uttar pradesh,firozabad,0,.83977902,0
-uttar pradesh,mainpuri,0,.79761904,0
-uttar pradesh,bareilly,0,.86868685,0
-uttar pradesh,pilibhit,0,.82394367,0
-uttar pradesh,shahjahanpur,0,.87272727,0
-uttar pradesh,kheri,0,.89349115,0
-uttar pradesh,sitapur,0,.90540534,0
-uttar pradesh,hardoi,0,.8829788,0
-uttar pradesh,unnao,0,.8881579,0
-uttar pradesh,lucknow,0,.88034189,0
-uttar pradesh,farrukhabad,0,.88,0
-uttar pradesh,kannauj,0,.92929292,0
-uttar pradesh,etawah,0,.92896175,0
-uttar pradesh,auraiya,0,.90963858,0
-uttar pradesh,kanpur dehat,0,.86805558,0
-uttar pradesh,kanpur nagar,0,.93220341,0
-uttar pradesh,jalaun,0,.87878788,0
-uttar pradesh,jhansi,0,.96943229,0
-uttar pradesh,lalitpur,0,.9217391,0
-uttar pradesh,hamirpur,0,.93203878,0
-uttar pradesh,mahoba,0,.88938051,0
-uttar pradesh,banda,0,.88177341,0
-uttar pradesh,chitrakoot,0,.83236992,0
-uttar pradesh,fatehpur,0,.89142859,0
-uttar pradesh,pratapgarh,0,.875,0
-uttar pradesh,kaushambi,0,.88571429,0
-uttar pradesh,allahabad,0,.8699187,0
-uttar pradesh,bara banki,0,.82608694,0
-uttar pradesh,faizabad,0,.89051098,0
-uttar pradesh,ambedkar nagar,0,.86153853,0
-uttar pradesh,bahraich,0,.82945734,0
-uttar pradesh,shrawasti,0,.88961047,0
-uttar pradesh,balrampur,0,.87234044,0
-uttar pradesh,gonda,0,.86842102,0
-uttar pradesh,siddharthnagar,0,.92125982,0
-uttar pradesh,basti,0,.91156465,0
-uttar pradesh,sant kabir nagar,0,.93333334,0
-uttar pradesh,mahrajganj,0,.91666669,0
-uttar pradesh,gorakhpur,0,.92592591,0
-uttar pradesh,kushinagar,0,.94202906,0
-uttar pradesh,deoria,0,.94267511,0
-uttar pradesh,azamgarh,0,.84931505,0
-uttar pradesh,mau,0,.90476185,0
-uttar pradesh,ballia,0,.89583331,0
-uttar pradesh,jaunpur,0,.92045456,0
-uttar pradesh,ghazipur,0,.91625613,0
-uttar pradesh,chandauli,0,.8652482,0
-uttar pradesh,varanasi,0,.84615386,0
-uttar pradesh,sant ravidas nagar (bhadohi),0,.87288129,0
-uttar pradesh,mirzapur,0,.91836733,0
-uttar pradesh,sonbhadra,0,.8214286,0
-uttar pradesh,etah,0,.81005585,0
-uttar pradesh,kanshiram nagar,0,.87730056,0
-bihar,pashchim champaran,0,.86238539,0
-bihar,purba champaran,0,.89285713,0
-bihar,sheohar,0,.88461536,0
-bihar,sitamarhi,0,.89380533,0
-bihar,madhubani,0,.85074633,0
-bihar,supaul,0,.90909094,0
-bihar,araria,0,.88235295,0
-bihar,kishanganj,0,.91176462,0
-bihar,purnia,0,.83962262,0
-bihar,katihar,0,.86206895,0
-bihar,madhepura,0,.9285714,0
-bihar,saharsa,0,.94318181,0
-bihar,darbhanga,0,.89189196,0
-bihar,muzaffarpur,0,.96923077,0
-bihar,gopalganj,0,.92708331,0
-bihar,siwan,0,.88421053,0
-bihar,saran,0,.89423084,0
-bihar,vaishali,0,.90476191,0
-bihar,samastipur,0,.88888896,0
-bihar,begusarai,0,.86206895,0
-bihar,khagaria,0,.89999998,0
-bihar,bhagalpur,0,.90977442,0
-bihar,banka,0,.91176462,0
-bihar,munger,0,.92792791,0
-bihar,lakhisarai,0,.90825689,0
-bihar,sheikhpura,0,.90151513,0
-bihar,nalanda,0,.87786263,0
-bihar,patna,0,.91891891,0
-bihar,bhojpur,0,.87162155,0
-bihar,buxar,0,.90983605,0
-bihar,kaimur (bhabua),0,.86301363,0
-bihar,rohtas,0,.875,0
-bihar,aurangabad,0,.89814812,0
-bihar,gaya,0,.87074828,0
-bihar,nawada,0,.92561978,0
-bihar,jamui,0,.92929292,0
-bihar,jehanabad,0,.85321099,0
-bihar,arwal,0,.85858583,0
-sikkim,north  district,0,.88990831,0
-sikkim,west district,0,.93333334,0
-sikkim,south district,0,.94736844,0
-sikkim,east district,0,.98412704,0
-arunachal pradesh,tawang,0,.94160587,0
-arunachal pradesh,west kameng,0,.97604799,0
-arunachal pradesh,east kameng,0,.83846152,0
-arunachal pradesh,papum pare,0,.96478873,0
-arunachal pradesh,upper subansiri,0,.87074828,0
-arunachal pradesh,upper siang,0,.93233085,0
-arunachal pradesh,changlang,0,.92592591,0
-arunachal pradesh,lower subansiri,0,.95209581,0
-arunachal pradesh,dibang valley,0,.9402985,0
-arunachal pradesh,lower dibang valley,0,.95375729,0
-arunachal pradesh,anjaw,0,.90400004,0
-nagaland,mon,0,.91056913,0
+himachal pradesh,solan,0,0.97777784,0
+himachal pradesh,sirmaur,0,0.91390735,0
+himachal pradesh,shimla,0,0.97368419,0
+himachal pradesh,kinnaur,0,0.9834711,0
+punjab,kapurthala,0,0.98051947,0
+punjab,jalandhar,0,0.91489363,0
+punjab,hoshiarpur,0,0.96774191,0
+punjab,shahid bhagat singh nagar,0,0.95061731,0
+punjab,fatehgarh sahib,0,0.94557822,0
+punjab,ludhiana,0,0.94776112,0
+punjab,moga,0,0.94117647,0
+punjab,muktsar,0,0.90173411,0
+punjab,faridkot,0,0.8943662,0
+punjab,bathinda,0,0.90967751,0
+punjab,mansa,0,0.90196079,0
+punjab,patiala,0,0.96478873,0
+punjab,amritsar,0,0.90532547,0
+punjab,tarn taran,0,0.85401452,0
+punjab,rupnagar,0,0.95412844,0
+punjab,sahibzada ajit singh nagar,0,0.95327103,0
+punjab,sangrur,0,0.91333336,0
+punjab,barnala,0,0.92405063,0
+chandigarh,chandigarh,0,0.93269235,0
+uttarakhand,uttarkashi,0,0.88484848,0
+uttarakhand,chamoli,0,0.92105263,0
+uttarakhand,rudraprayag,0,0.91666669,0
+uttarakhand,tehri garhwal,0,0.8918919,0
+uttarakhand,dehradun,0,0.97849464,0
+uttarakhand,garhwal,0,0.88749999,0
+uttarakhand,pithoragarh,0,0.91724139,0
+uttarakhand,bageshwar,0,0.85840708,0
+uttarakhand,almora,0,0.8901099,0
+uttarakhand,champawat,0,0.91156465,0
+uttarakhand,nainital,0,0.89032257,0
+uttarakhand,udham singh nagar,0,0.88811189,0
+uttarakhand,hardwar,0,0.80165291,0
+haryana,panchkula,0,0.91566265,0
+haryana,ambala,0,0.89999998,0
+haryana,yamunanagar,0,0.90104163,0
+haryana,kurukshetra,0,0.9130435,0
+haryana,kaithal,0,0.88659793,0
+haryana,karnal,0,0.94554454,0
+haryana,panipat,0,0.88811189,0
+haryana,sonipat,0,0.93589741,0
+haryana,jind,0,0.88050312,0
+haryana,fatehabad,0,0.89655173,0
+haryana,sirsa,0,0.85714287,0
+haryana,hisar,0,0.92105263,0
+haryana,rohtak,0,0.89208633,0
+haryana,jhajjar,0,0.86619717,0
+haryana,mahendragarh,0,0.88414627,0
+haryana,rewari,0,0.89333332,0
+haryana,gurgaon,0,0.95918369,0
+haryana,mewat,0,0.9245283,0
+haryana,faridabad,0,0.89130437,0
+haryana,palwal,0,0.89005238,0
+rajasthan,ganganagar,0,0.94618827,0
+rajasthan,hanumangarh,0,0.95067263,0
+rajasthan,bikaner,0,0.95020747,0
+rajasthan,churu,0,0.88,0
+rajasthan,jhunjhunun,0,0.95698923,0
+rajasthan,alwar,0,0.92105263,0
+rajasthan,bharatpur,0,0.88690478,0
+rajasthan,dhaulpur,0,0.8021391,0
+rajasthan,karauli,0,0.88636363,0
+rajasthan,sawai madhopur,0,0.89830506,0
+rajasthan,dausa,0,0.875,0
+rajasthan,jaipur,0,0.92929292,0
+rajasthan,sikar,0,0.91133004,0
+rajasthan,nagaur,0,0.92307693,0
+rajasthan,jodhpur,0,0.90794981,0
+rajasthan,jaisalmer,0,0.9156118,0
+rajasthan,barmer,0,0.90717298,0
+rajasthan,jalor,0,0.84455955,0
+rajasthan,sirohi,0,0.89473689,0
+rajasthan,pali,0,0.95597482,0
+rajasthan,ajmer,0,0.9383561,0
+rajasthan,tonk,0,0.91443849,0
+rajasthan,bundi,0,0.93157893,0
+rajasthan,bhilwara,0,0.91812867,0
+rajasthan,rajsamand,0,0.94736844,0
+rajasthan,dungarpur,0,0.88340807,0
+rajasthan,banswara,0,0.85882354,0
+rajasthan,chittaurgarh,0,0.91489363,0
+rajasthan,kota,0,0.95569623,0
+rajasthan,baran,0,0.88546258,0
+rajasthan,jhalawar,0,0.9039548,0
+rajasthan,udaipur,0,0.91099477,0
+rajasthan,pratapgarh,0,0.81920904,0
+uttar pradesh,saharanpur,0,0.89617485,0
+uttar pradesh,bijnor,0,0.84831458,0
+uttar pradesh,rampur,0,0.91034484,0
+uttar pradesh,jyotiba phule nagar,0,0.94545454,0
+uttar pradesh,meerut,0,0.89349115,0
+uttar pradesh,baghpat,0,0.87684727,0
+uttar pradesh,gautam buddha nagar,0,0.95789468,0
+uttar pradesh,bulandshahr,0,0.89999998,0
+uttar pradesh,aligarh,0,0.88965517,0
+uttar pradesh,mahamaya nagar,0,0.83561641,0
+uttar pradesh,mathura,0,0.82716048,0
+uttar pradesh,agra,0,0.87421381,0
+uttar pradesh,firozabad,0,0.83977902,0
+uttar pradesh,mainpuri,0,0.79761904,0
+uttar pradesh,bareilly,0,0.86868685,0
+uttar pradesh,pilibhit,0,0.82394367,0
+uttar pradesh,shahjahanpur,0,0.87272727,0
+uttar pradesh,kheri,0,0.89349115,0
+uttar pradesh,sitapur,0,0.90540534,0
+uttar pradesh,hardoi,0,0.8829788,0
+uttar pradesh,unnao,0,0.8881579,0
+uttar pradesh,lucknow,0,0.88034189,0
+uttar pradesh,farrukhabad,0,0.88,0
+uttar pradesh,kannauj,0,0.92929292,0
+uttar pradesh,etawah,0,0.92896175,0
+uttar pradesh,auraiya,0,0.90963858,0
+uttar pradesh,kanpur dehat,0,0.86805558,0
+uttar pradesh,kanpur nagar,0,0.93220341,0
+uttar pradesh,jalaun,0,0.87878788,0
+uttar pradesh,jhansi,0,0.96943229,0
+uttar pradesh,lalitpur,0,0.9217391,0
+uttar pradesh,hamirpur,0,0.93203878,0
+uttar pradesh,mahoba,0,0.88938051,0
+uttar pradesh,banda,0,0.88177341,0
+uttar pradesh,chitrakoot,0,0.83236992,0
+uttar pradesh,fatehpur,0,0.89142859,0
+uttar pradesh,pratapgarh,0,0.875,0
+uttar pradesh,kaushambi,0,0.88571429,0
+uttar pradesh,allahabad,0,0.8699187,0
+uttar pradesh,bara banki,0,0.82608694,0
+uttar pradesh,faizabad,0,0.89051098,0
+uttar pradesh,ambedkar nagar,0,0.86153853,0
+uttar pradesh,bahraich,0,0.82945734,0
+uttar pradesh,shrawasti,0,0.88961047,0
+uttar pradesh,balrampur,0,0.87234044,0
+uttar pradesh,gonda,0,0.86842102,0
+uttar pradesh,siddharthnagar,0,0.92125982,0
+uttar pradesh,basti,0,0.91156465,0
+uttar pradesh,sant kabir nagar,0,0.93333334,0
+uttar pradesh,mahrajganj,0,0.91666669,0
+uttar pradesh,gorakhpur,0,0.92592591,0
+uttar pradesh,kushinagar,0,0.94202906,0
+uttar pradesh,deoria,0,0.94267511,0
+uttar pradesh,azamgarh,0,0.84931505,0
+uttar pradesh,mau,0,0.90476185,0
+uttar pradesh,ballia,0,0.89583331,0
+uttar pradesh,jaunpur,0,0.92045456,0
+uttar pradesh,ghazipur,0,0.91625613,0
+uttar pradesh,chandauli,0,0.8652482,0
+uttar pradesh,varanasi,0,0.84615386,0
+uttar pradesh,sant ravidas nagar (bhadohi),0,0.87288129,0
+uttar pradesh,mirzapur,0,0.91836733,0
+uttar pradesh,sonbhadra,0,0.8214286,0
+uttar pradesh,etah,0,0.81005585,0
+uttar pradesh,kanshiram nagar,0,0.87730056,0
+bihar,pashchim champaran,0,0.86238539,0
+bihar,purba champaran,0,0.89285713,0
+bihar,sheohar,0,0.88461536,0
+bihar,sitamarhi,0,0.89380533,0
+bihar,madhubani,0,0.85074633,0
+bihar,supaul,0,0.90909094,0
+bihar,araria,0,0.88235295,0
+bihar,kishanganj,0,0.91176462,0
+bihar,purnia,0,0.83962262,0
+bihar,katihar,0,0.86206895,0
+bihar,madhepura,0,0.9285714,0
+bihar,saharsa,0,0.94318181,0
+bihar,darbhanga,0,0.89189196,0
+bihar,muzaffarpur,0,0.96923077,0
+bihar,gopalganj,0,0.92708331,0
+bihar,siwan,0,0.88421053,0
+bihar,saran,0,0.89423084,0
+bihar,vaishali,0,0.90476191,0
+bihar,samastipur,0,0.88888896,0
+bihar,begusarai,0,0.86206895,0
+bihar,khagaria,0,0.89999998,0
+bihar,bhagalpur,0,0.90977442,0
+bihar,banka,0,0.91176462,0
+bihar,munger,0,0.92792791,0
+bihar,lakhisarai,0,0.90825689,0
+bihar,sheikhpura,0,0.90151513,0
+bihar,nalanda,0,0.87786263,0
+bihar,patna,0,0.91891891,0
+bihar,bhojpur,0,0.87162155,0
+bihar,buxar,0,0.90983605,0
+bihar,kaimur (bhabua),0,0.86301363,0
+bihar,rohtas,0,0.875,0
+bihar,aurangabad,0,0.89814812,0
+bihar,gaya,0,0.87074828,0
+bihar,nawada,0,0.92561978,0
+bihar,jamui,0,0.92929292,0
+bihar,jehanabad,0,0.85321099,0
+bihar,arwal,0,0.85858583,0
+sikkim,north  district,0,0.88990831,0
+sikkim,west district,0,0.93333334,0
+sikkim,south district,0,0.94736844,0
+sikkim,east district,0,0.98412704,0
+arunachal pradesh,tawang,0,0.94160587,0
+arunachal pradesh,west kameng,0,0.97604799,0
+arunachal pradesh,east kameng,0,0.83846152,0
+arunachal pradesh,papum pare,0,0.96478873,0
+arunachal pradesh,upper subansiri,0,0.87074828,0
+arunachal pradesh,upper siang,0,0.93233085,0
+arunachal pradesh,changlang,0,0.92592591,0
+arunachal pradesh,lower subansiri,0,0.95209581,0
+arunachal pradesh,dibang valley,0,0.9402985,0
+arunachal pradesh,lower dibang valley,0,0.95375729,0
+arunachal pradesh,anjaw,0,0.90400004,0
+nagaland,mon,0,0.91056913,0
 nagaland,mokokchung,0,1,0
-nagaland,zunheboto,0,.9222222,0
-nagaland,wokha,0,.98958331,0
-nagaland,dimapur,0,.98148149,0
-nagaland,phek,0,.88356167,0
-nagaland,tuensang,0,.9421488,0
-nagaland,longleng,0,.92708337,0
-nagaland,kiphire,0,.96842104,0
-nagaland,kohima,0,.95454544,0
-nagaland,peren,0,.9285714,0
-manipur,senapati,0,.89166665,0
-manipur,tamenglong,0,.91525424,0
-manipur,churachandpur,0,.94285715,0
-manipur,bishnupur,0,.89430892,0
-manipur,thoubal,0,.88590604,0
-manipur,imphal west,0,.96124029,0
-manipur,imphal east,0,.92028987,0
-manipur,ukhrul,0,.86315787,0
-manipur,chandel,0,.89473683,0
-mizoram,mamit,0,.96850395,0
-mizoram,kolasib,0,.91240883,0
-mizoram,aizawl,0,.92391312,0
-mizoram,champhai,0,.9066667,0
-mizoram,serchhip,0,.92307693,0
-mizoram,lunglei,0,.91428572,0
-mizoram,lawngtlai,0,.86330932,0
-mizoram,saiha,0,.83636355,0
-tripura,dhalai,0,.80172414,0
-meghalaya,south garo hills,0,.94871795,0
-meghalaya,ribhoi,0,.81751823,0
-meghalaya,east khasi hills,0,.85714287,0
-assam,kokrajhar,0,.92913383,0
-assam,goalpara,0,.91240877,0
-assam,barpeta,0,.87218046,0
-assam,morigaon,0,.85294116,0
-assam,lakhimpur,0,.9285714,0
-assam,dhemaji,0,.9054054,0
-assam,tinsukia,0,.79365081,0
-assam,dibrugarh,0,.8740741,0
-assam,golaghat,0,.77310926,0
-assam,dima hasao,0,.8389262,0
-assam,cachar,0,.91199994,0
-assam,karimganj,0,.93617016,0
-assam,hailakandi,0,.87603307,0
-assam,bongaigaon,0,.90977442,0
-assam,chirang,0,.90769231,0
-assam,kamrup,0,.95081967,0
-assam,kamrup metropolitan,0,.95652175,0
-assam,nalbari,0,.83870965,0
-assam,baksa,0,.85820895,0
-assam,darrang,0,.89333332,0
-assam,udalguri,0,.86666667,0
-west bengal,darjiling,0,.88571429,0
-west bengal,jalpaiguri,0,.89147288,0
-west bengal,koch bihar,0,.92028987,0
-west bengal,uttar dinajpur,0,.91970807,0
-west bengal,dakshin dinajpur,0,.83916086,0
-west bengal,maldah,0,.88188976,0
-west bengal,murshidabad,0,.8214286,0
-west bengal,birbhum,0,.87248319,0
-west bengal,nadia,0,.84090906,0
-west bengal,north twenty four parganas,0,.95070416,0
-west bengal,hugli,0,.89682531,0
-west bengal,bankura,0,.82203388,0
-west bengal,puruliya,0,.83185846,0
-west bengal,haora,0,.95333332,0
-west bengal,kolkata,0,.92028987,0
-west bengal,south twenty four parganas,0,.90277773,0
-west bengal,paschim medinipur,0,.84166664,0
-west bengal,purba medinipur,0,.86363631,0
-jharkhand,garhwa,0,.81250006,0
-jharkhand,chatra,0,.89166665,0
-jharkhand,kodarma,0,.8732394,0
-jharkhand,giridih,0,.94736844,0
-jharkhand,deoghar,0,.875,0
-jharkhand,godda,0,.79816514,0
-jharkhand,sahibganj,0,.87610626,0
-jharkhand,pakur,0,.77884614,0
-jharkhand,dhanbad,0,.90361446,0
-jharkhand,bokaro,0,.92356688,0
-jharkhand,lohardaga,0,.86206895,0
-jharkhand,purbi singhbhum,0,.8418079,0
-jharkhand,palamu,0,.83916086,0
-jharkhand,latehar,0,.89440995,0
-jharkhand,hazaribagh,0,.84210527,0
-jharkhand,ramgarh,0,.84831458,0
-jharkhand,dumka,0,.8442623,0
-jharkhand,jamtara,0,.8263889,0
-jharkhand,ranchi,0,.94871789,0
-jharkhand,khunti,0,.77464789,0
-jharkhand,gumla,0,.85795456,0
-jharkhand,simdega,0,.87974685,0
-jharkhand,pashchimi singhbhum,0,.86896551,0
-jharkhand,saraikela-kharsawan,0,.89071041,0
-odisha,bargarh,0,.88965511,0
-odisha,jharsuguda,0,.89473683,0
-odisha,sambalpur,0,.85714287,0
-odisha,debagarh,0,.85964912,0
-odisha,sundargarh,0,.89075631,0
-odisha,kendujhar,0,.8359375,0
-odisha,mayurbhanj,0,.83739835,0
-odisha,baleshwar,0,.83999997,0
-odisha,bhadrak,0,.8490566,0
-odisha,kendrapara,0,.7927928,0
-odisha,jagatsinghapur,0,.91262138,0
-odisha,cuttack,0,.8923077,0
-odisha,jajapur,0,.84285712,0
-odisha,dhenkanal,0,.86734694,0
-odisha,anugul,0,.88513511,0
-odisha,nayagarh,0,.80303031,0
-odisha,khordha,0,.91379309,0
-odisha,puri,0,.81666666,0
-odisha,ganjam,0,.86486489,0
-odisha,gajapati,0,.80733943,0
-odisha,kandhamal,0,.78289473,0
-odisha,baudh,0,.83571428,0
-odisha,subarnapur,0,.89583331,0
-odisha,balangir,0,.8741259,0
-odisha,nuapada,0,.79136693,0
-odisha,kalahandi,0,.83850926,0
-odisha,rayagada,0,.7185185,0
-odisha,nabarangapur,0,.80000001,0
-odisha,koraput,0,.73571426,0
-odisha,malkangiri,0,.67153287,0
-chhattisgarh,koriya,0,.74436092,0
-chhattisgarh,jashpur,0,.75735295,0
-chhattisgarh,raigarh,0,.87662339,0
-chhattisgarh,korba,0,.86127168,0
-chhattisgarh,janjgir - champa,0,.82550335,0
-chhattisgarh,kabeerdham,0,.8874172,0
-chhattisgarh,rajnandgaon,0,.86627907,0
-chhattisgarh,mahasamund,0,.89570552,0
-chhattisgarh,dhamtari,0,.83443707,0
-chhattisgarh,uttar bastar kanker,0,.78205127,0
-chhattisgarh,narayanpur,0,.54268295,0
-chhattisgarh,bijapur,0,.67469877,0
-madhya pradesh,sheopur,0,.78991598,0
-madhya pradesh,morena,0,.81751823,0
-madhya pradesh,bhind,0,.85714287,0
-madhya pradesh,gwalior,0,.87804872,0
-madhya pradesh,datia,0,.86206895,0
-madhya pradesh,shivpuri,0,.88695651,0
-madhya pradesh,tikamgarh,0,.82926828,0
-madhya pradesh,chhatarpur,0,.86335403,0
-madhya pradesh,panna,0,.81578952,0
-madhya pradesh,sagar,0,.89655173,0
-madhya pradesh,damoh,0,.85000002,0
-madhya pradesh,satna,0,.87341774,0
-madhya pradesh,rewa,0,.77108431,0
-madhya pradesh,umaria,0,.83139533,0
-madhya pradesh,neemuch,0,.95580119,0
-madhya pradesh,mandsaur,0,.91907513,0
-madhya pradesh,ratlam,0,.88607597,0
-madhya pradesh,ujjain,0,.943299,0
-madhya pradesh,dewas,0,.92553192,0
-madhya pradesh,dhar,0,.85148513,0
-madhya pradesh,indore,0,.90425533,0
-madhya pradesh,khargone (west nimar),0,.91666669,0
-madhya pradesh,barwani,0,.88359785,0
-madhya pradesh,rajgarh,0,.8611111,0
-madhya pradesh,vidisha,0,.86746991,0
-madhya pradesh,bhopal,0,.89473689,0
-madhya pradesh,sehore,0,.83333331,0
-madhya pradesh,raisen,0,.82692307,0
-madhya pradesh,betul,0,.83687943,0
-madhya pradesh,harda,0,.877451,0
-madhya pradesh,hoshangabad,0,.76543212,0
-madhya pradesh,katni,0,.83168316,0
-madhya pradesh,jabalpur,0,.94444436,0
-madhya pradesh,narsimhapur,0,.84375,0
-madhya pradesh,dindori,0,.81595093,0
-madhya pradesh,mandla,0,.81699342,0
-madhya pradesh,chhindwara,0,.8359375,0
-madhya pradesh,seoni,0,.81617641,0
-madhya pradesh,balaghat,0,.89781022,0
-madhya pradesh,guna,0,.82716048,0
-madhya pradesh,ashoknagar,0,.875,0
-madhya pradesh,shahdol,0,.73228347,0
-madhya pradesh,anuppur,0,.79144382,0
-madhya pradesh,sidhi,0,.78676468,0
-madhya pradesh,singrauli,0,.87500006,0
-madhya pradesh,jhabua,0,.89285713,0
-madhya pradesh,alirajpur,0,.82802546,0
-madhya pradesh,khandwa (east nimar),0,.70588237,0
-madhya pradesh,burhanpur,0,.86294419,0
-gujarat,kachchh,0,.93922645,0
-gujarat,banas kantha,0,.88321161,0
-gujarat,patan,0,.91156459,0
-gujarat,mahesana,0,.93518519,0
-gujarat,gandhinagar,0,.89147288,0
-gujarat,porbandar,0,.95104897,0
-gujarat,amreli,0,.94736844,0
-gujarat,anand,0,.89726025,0
-gujarat,dohad,0,.80740744,0
-gujarat,narmada,0,.74149662,0
-gujarat,bharuch,0,.88679242,0
-gujarat,the dangs,0,.83846152,0
-gujarat,navsari,0,.87577641,0
-gujarat,valsad,0,.93710691,0
-gujarat,surat,0,.92820513,0
-gujarat,tapi,0,.86029416,0
-dadra & nagar haveli and daman & diu,diu,0,.9207921,0
-dadra & nagar haveli and daman & diu,daman,0,.93181819,0
-dadra & nagar haveli and daman & diu,dadra & nagar haveli,0,.94871789,0
-maharashtra,nandurbar,0,.72789115,0
-maharashtra,dhule,0,.8442623,0
-maharashtra,jalgaon,0,.9055118,0
-maharashtra,buldana,0,.99363059,0
-maharashtra,akola,0,.95977014,0
-maharashtra,washim,0,.95999998,0
-maharashtra,amravati,0,.94405597,0
-maharashtra,wardha,0,.90714288,0
-maharashtra,nagpur,0,.95275599,0
-maharashtra,bhandara,0,.91603059,0
-maharashtra,gondiya,0,.8607595,0
-maharashtra,gadchiroli,0,.87804878,0
-maharashtra,chandrapur,0,.90857142,0
-maharashtra,yavatmal,0,.90604019,0
-maharashtra,nanded,0,.92253524,0
-maharashtra,hingoli,0,.9130435,0
-maharashtra,parbhani,0,.91780823,0
-maharashtra,jalna,0,.9512195,0
-maharashtra,aurangabad,0,.95238096,0
-maharashtra,nashik,0,.86567163,0
-maharashtra,mumbai suburban,0,.98437494,0
-maharashtra,mumbai,0,.99212599,0
-maharashtra,raigarh,0,.95714283,0
-maharashtra,pune,0,.97321427,0
-maharashtra,ahmadnagar,0,.94827586,0
-maharashtra,bid,0,.9649123,0
-maharashtra,latur,0,.94531244,0
-maharashtra,osmanabad,0,.96799999,0
-maharashtra,solapur,0,.94262302,0
-maharashtra,satara,0,.94354832,0
-maharashtra,ratnagiri,0,.95098037,0
-maharashtra,sindhudurg,0,.95959598,0
-maharashtra,kolhapur,0,.90983605,0
-maharashtra,sangli,0,.89552242,0
-andhra pradesh,srikakulam,0,.96103895,0
-andhra pradesh,vizianagaram,0,.90740746,0
-andhra pradesh,visakhapatnam,0,.90804595,0
-andhra pradesh,east godavari,0,.96666664,0
-andhra pradesh,west godavari,0,.9245283,0
-andhra pradesh,krishna,0,.96078438,0
-andhra pradesh,guntur,0,.8607595,0
-andhra pradesh,prakasam,0,.94117647,0
-andhra pradesh,sri potti sriramulu nellore,0,.88679248,0
-andhra pradesh,y.s.r.,0,.92592591,0
-andhra pradesh,kurnool,0,.942029,0
-andhra pradesh,anantapur,0,.94405586,0
-andhra pradesh,chittoor,0,.95918369,0
-karnataka,belgaum,0,.95070416,0
-karnataka,bagalkot,0,.96428573,0
-karnataka,bijapur,0,.93388432,0
-karnataka,bidar,0,.96503496,0
-karnataka,raichur,0,.93893135,0
-karnataka,koppal,0,.91044784,0
-karnataka,gadag,0,.91666675,0
-karnataka,dharwad,0,.90243906,0
-karnataka,uttara kannada,0,.95890403,0
-karnataka,haveri,0,.90909094,0
-karnataka,bellary,0,.89510483,0
-karnataka,chitradurga,0,.91044772,0
-karnataka,davanagere,0,.84615386,0
-karnataka,shimoga,0,.9609375,0
-karnataka,udupi,0,.96694207,0
-karnataka,chikmagalur,0,.91603053,0
-karnataka,tumkur,0,.89147288,0
-karnataka,bangalore,0,.97600007,0
-karnataka,mandya,0,.95275593,0
-karnataka,hassan,0,.96124035,0
-karnataka,dakshina kannada,0,.96402884,0
-karnataka,kodagu,0,.94244605,0
-karnataka,mysore,0,.91044778,0
-karnataka,chamarajanagar,0,.92647058,0
-karnataka,gulbarga,0,.87943262,0
-karnataka,yadgir,0,.92537308,0
-karnataka,kolar,0,.96341461,0
-karnataka,chikkaballapura,0,.95833331,0
-karnataka,bangalore rural,0,.9366197,0
-karnataka,ramanagara,0,.8888889,0
-goa,north goa,0,.97345132,0
-goa,south goa,0,.97435892,0
-lakshadweep,lakshadweep,0,.95555556,0
-kerala,kasaragod,0,.93965518,0
-kerala,kannur,0,.96039605,0
-kerala,wayanad,0,.8888889,0
-kerala,kozhikode,0,.98058259,0
-kerala,malappuram,0,.98198199,0
-kerala,palakkad,0,.94059408,0
-kerala,thrissur,0,.93877554,0
-kerala,ernakulam,0,.98888886,0
-kerala,idukki,0,.96190476,0
-kerala,kottayam,0,.97333336,0
+nagaland,zunheboto,0,0.9222222,0
+nagaland,wokha,0,0.98958331,0
+nagaland,dimapur,0,0.98148149,0
+nagaland,phek,0,0.88356167,0
+nagaland,tuensang,0,0.9421488,0
+nagaland,longleng,0,0.92708337,0
+nagaland,kiphire,0,0.96842104,0
+nagaland,kohima,0,0.95454544,0
+nagaland,peren,0,0.9285714,0
+manipur,senapati,0,0.89166665,0
+manipur,tamenglong,0,0.91525424,0
+manipur,churachandpur,0,0.94285715,0
+manipur,bishnupur,0,0.89430892,0
+manipur,thoubal,0,0.88590604,0
+manipur,imphal west,0,0.96124029,0
+manipur,imphal east,0,0.92028987,0
+manipur,ukhrul,0,0.86315787,0
+manipur,chandel,0,0.89473683,0
+mizoram,mamit,0,0.96850395,0
+mizoram,kolasib,0,0.91240883,0
+mizoram,aizawl,0,0.92391312,0
+mizoram,champhai,0,0.9066667,0
+mizoram,serchhip,0,0.92307693,0
+mizoram,lunglei,0,0.91428572,0
+mizoram,lawngtlai,0,0.86330932,0
+mizoram,saiha,0,0.83636355,0
+tripura,dhalai,0,0.80172414,0
+meghalaya,south garo hills,0,0.94871795,0
+meghalaya,ribhoi,0,0.81751823,0
+meghalaya,east khasi hills,0,0.85714287,0
+assam,kokrajhar,0,0.92913383,0
+assam,goalpara,0,0.91240877,0
+assam,barpeta,0,0.87218046,0
+assam,morigaon,0,0.85294116,0
+assam,lakhimpur,0,0.9285714,0
+assam,dhemaji,0,0.9054054,0
+assam,tinsukia,0,0.79365081,0
+assam,dibrugarh,0,0.8740741,0
+assam,golaghat,0,0.77310926,0
+assam,dima hasao,0,0.8389262,0
+assam,cachar,0,0.91199994,0
+assam,karimganj,0,0.93617016,0
+assam,hailakandi,0,0.87603307,0
+assam,bongaigaon,0,0.90977442,0
+assam,chirang,0,0.90769231,0
+assam,kamrup,0,0.95081967,0
+assam,kamrup metropolitan,0,0.95652175,0
+assam,nalbari,0,0.83870965,0
+assam,baksa,0,0.85820895,0
+assam,darrang,0,0.89333332,0
+assam,udalguri,0,0.86666667,0
+west bengal,darjiling,0,0.88571429,0
+west bengal,jalpaiguri,0,0.89147288,0
+west bengal,koch bihar,0,0.92028987,0
+west bengal,uttar dinajpur,0,0.91970807,0
+west bengal,dakshin dinajpur,0,0.83916086,0
+west bengal,maldah,0,0.88188976,0
+west bengal,murshidabad,0,0.8214286,0
+west bengal,birbhum,0,0.87248319,0
+west bengal,nadia,0,0.84090906,0
+west bengal,north twenty four parganas,0,0.95070416,0
+west bengal,hugli,0,0.89682531,0
+west bengal,bankura,0,0.82203388,0
+west bengal,puruliya,0,0.83185846,0
+west bengal,haora,0,0.95333332,0
+west bengal,kolkata,0,0.92028987,0
+west bengal,south twenty four parganas,0,0.90277773,0
+west bengal,paschim medinipur,0,0.84166664,0
+west bengal,purba medinipur,0,0.86363631,0
+jharkhand,garhwa,0,0.81250006,0
+jharkhand,chatra,0,0.89166665,0
+jharkhand,kodarma,0,0.8732394,0
+jharkhand,giridih,0,0.94736844,0
+jharkhand,deoghar,0,0.875,0
+jharkhand,godda,0,0.79816514,0
+jharkhand,sahibganj,0,0.87610626,0
+jharkhand,pakur,0,0.77884614,0
+jharkhand,dhanbad,0,0.90361446,0
+jharkhand,bokaro,0,0.92356688,0
+jharkhand,lohardaga,0,0.86206895,0
+jharkhand,purbi singhbhum,0,0.8418079,0
+jharkhand,palamu,0,0.83916086,0
+jharkhand,latehar,0,0.89440995,0
+jharkhand,hazaribagh,0,0.84210527,0
+jharkhand,ramgarh,0,0.84831458,0
+jharkhand,dumka,0,0.8442623,0
+jharkhand,jamtara,0,0.8263889,0
+jharkhand,ranchi,0,0.94871789,0
+jharkhand,khunti,0,0.77464789,0
+jharkhand,gumla,0,0.85795456,0
+jharkhand,simdega,0,0.87974685,0
+jharkhand,pashchimi singhbhum,0,0.86896551,0
+jharkhand,saraikela-kharsawan,0,0.89071041,0
+odisha,bargarh,0,0.88965511,0
+odisha,jharsuguda,0,0.89473683,0
+odisha,sambalpur,0,0.85714287,0
+odisha,debagarh,0,0.85964912,0
+odisha,sundargarh,0,0.89075631,0
+odisha,kendujhar,0,0.8359375,0
+odisha,mayurbhanj,0,0.83739835,0
+odisha,baleshwar,0,0.83999997,0
+odisha,bhadrak,0,0.8490566,0
+odisha,kendrapara,0,0.7927928,0
+odisha,jagatsinghapur,0,0.91262138,0
+odisha,cuttack,0,0.8923077,0
+odisha,jajapur,0,0.84285712,0
+odisha,dhenkanal,0,0.86734694,0
+odisha,anugul,0,0.88513511,0
+odisha,nayagarh,0,0.80303031,0
+odisha,khordha,0,0.91379309,0
+odisha,puri,0,0.81666666,0
+odisha,ganjam,0,0.86486489,0
+odisha,gajapati,0,0.80733943,0
+odisha,kandhamal,0,0.78289473,0
+odisha,baudh,0,0.83571428,0
+odisha,subarnapur,0,0.89583331,0
+odisha,balangir,0,0.8741259,0
+odisha,nuapada,0,0.79136693,0
+odisha,kalahandi,0,0.83850926,0
+odisha,rayagada,0,0.7185185,0
+odisha,nabarangapur,0,0.80000001,0
+odisha,koraput,0,0.73571426,0
+odisha,malkangiri,0,0.67153287,0
+chhattisgarh,koriya,0,0.74436092,0
+chhattisgarh,jashpur,0,0.75735295,0
+chhattisgarh,raigarh,0,0.87662339,0
+chhattisgarh,korba,0,0.86127168,0
+chhattisgarh,janjgir - champa,0,0.82550335,0
+chhattisgarh,kabeerdham,0,0.8874172,0
+chhattisgarh,rajnandgaon,0,0.86627907,0
+chhattisgarh,mahasamund,0,0.89570552,0
+chhattisgarh,dhamtari,0,0.83443707,0
+chhattisgarh,uttar bastar kanker,0,0.78205127,0
+chhattisgarh,narayanpur,0,0.54268295,0
+chhattisgarh,bijapur,0,0.67469877,0
+madhya pradesh,sheopur,0,0.78991598,0
+madhya pradesh,morena,0,0.81751823,0
+madhya pradesh,bhind,0,0.85714287,0
+madhya pradesh,gwalior,0,0.87804872,0
+madhya pradesh,datia,0,0.86206895,0
+madhya pradesh,shivpuri,0,0.88695651,0
+madhya pradesh,tikamgarh,0,0.82926828,0
+madhya pradesh,chhatarpur,0,0.86335403,0
+madhya pradesh,panna,0,0.81578952,0
+madhya pradesh,sagar,0,0.89655173,0
+madhya pradesh,damoh,0,0.85000002,0
+madhya pradesh,satna,0,0.87341774,0
+madhya pradesh,rewa,0,0.77108431,0
+madhya pradesh,umaria,0,0.83139533,0
+madhya pradesh,neemuch,0,0.95580119,0
+madhya pradesh,mandsaur,0,0.91907513,0
+madhya pradesh,ratlam,0,0.88607597,0
+madhya pradesh,ujjain,0,0.943299,0
+madhya pradesh,dewas,0,0.92553192,0
+madhya pradesh,dhar,0,0.85148513,0
+madhya pradesh,indore,0,0.90425533,0
+madhya pradesh,khargone (west nimar),0,0.91666669,0
+madhya pradesh,barwani,0,0.88359785,0
+madhya pradesh,rajgarh,0,0.8611111,0
+madhya pradesh,vidisha,0,0.86746991,0
+madhya pradesh,bhopal,0,0.89473689,0
+madhya pradesh,sehore,0,0.83333331,0
+madhya pradesh,raisen,0,0.82692307,0
+madhya pradesh,betul,0,0.83687943,0
+madhya pradesh,harda,0,0.877451,0
+madhya pradesh,hoshangabad,0,0.76543212,0
+madhya pradesh,katni,0,0.83168316,0
+madhya pradesh,jabalpur,0,0.94444436,0
+madhya pradesh,narsimhapur,0,0.84375,0
+madhya pradesh,dindori,0,0.81595093,0
+madhya pradesh,mandla,0,0.81699342,0
+madhya pradesh,chhindwara,0,0.8359375,0
+madhya pradesh,seoni,0,0.81617641,0
+madhya pradesh,balaghat,0,0.89781022,0
+madhya pradesh,guna,0,0.82716048,0
+madhya pradesh,ashoknagar,0,0.875,0
+madhya pradesh,shahdol,0,0.73228347,0
+madhya pradesh,anuppur,0,0.79144382,0
+madhya pradesh,sidhi,0,0.78676468,0
+madhya pradesh,singrauli,0,0.87500006,0
+madhya pradesh,jhabua,0,0.89285713,0
+madhya pradesh,alirajpur,0,0.82802546,0
+madhya pradesh,khandwa (east nimar),0,0.70588237,0
+madhya pradesh,burhanpur,0,0.86294419,0
+gujarat,kachchh,0,0.93922645,0
+gujarat,banas kantha,0,0.88321161,0
+gujarat,patan,0,0.91156459,0
+gujarat,mahesana,0,0.93518519,0
+gujarat,gandhinagar,0,0.89147288,0
+gujarat,porbandar,0,0.95104897,0
+gujarat,amreli,0,0.94736844,0
+gujarat,anand,0,0.89726025,0
+gujarat,dohad,0,0.80740744,0
+gujarat,narmada,0,0.74149662,0
+gujarat,bharuch,0,0.88679242,0
+gujarat,the dangs,0,0.83846152,0
+gujarat,navsari,0,0.87577641,0
+gujarat,valsad,0,0.93710691,0
+gujarat,surat,0,0.92820513,0
+gujarat,tapi,0,0.86029416,0
+dadra & nagar haveli and daman & diu,diu,0,0.9207921,0
+dadra & nagar haveli and daman & diu,daman,0,0.93181819,0
+dadra & nagar haveli and daman & diu,dadra & nagar haveli,0,0.94871789,0
+maharashtra,nandurbar,0,0.72789115,0
+maharashtra,dhule,0,0.8442623,0
+maharashtra,jalgaon,0,0.9055118,0
+maharashtra,buldana,0,0.99363059,0
+maharashtra,akola,0,0.95977014,0
+maharashtra,washim,0,0.95999998,0
+maharashtra,amravati,0,0.94405597,0
+maharashtra,wardha,0,0.90714288,0
+maharashtra,nagpur,0,0.95275599,0
+maharashtra,bhandara,0,0.91603059,0
+maharashtra,gondiya,0,0.8607595,0
+maharashtra,gadchiroli,0,0.87804878,0
+maharashtra,chandrapur,0,0.90857142,0
+maharashtra,yavatmal,0,0.90604019,0
+maharashtra,nanded,0,0.92253524,0
+maharashtra,hingoli,0,0.9130435,0
+maharashtra,parbhani,0,0.91780823,0
+maharashtra,jalna,0,0.9512195,0
+maharashtra,aurangabad,0,0.95238096,0
+maharashtra,nashik,0,0.86567163,0
+maharashtra,mumbai suburban,0,0.98437494,0
+maharashtra,mumbai,0,0.99212599,0
+maharashtra,raigarh,0,0.95714283,0
+maharashtra,pune,0,0.97321427,0
+maharashtra,ahmadnagar,0,0.94827586,0
+maharashtra,bid,0,0.9649123,0
+maharashtra,latur,0,0.94531244,0
+maharashtra,osmanabad,0,0.96799999,0
+maharashtra,solapur,0,0.94262302,0
+maharashtra,satara,0,0.94354832,0
+maharashtra,ratnagiri,0,0.95098037,0
+maharashtra,sindhudurg,0,0.95959598,0
+maharashtra,kolhapur,0,0.90983605,0
+maharashtra,sangli,0,0.89552242,0
+andhra pradesh,srikakulam,0,0.96103895,0
+andhra pradesh,vizianagaram,0,0.90740746,0
+andhra pradesh,visakhapatnam,0,0.90804595,0
+andhra pradesh,east godavari,0,0.96666664,0
+andhra pradesh,west godavari,0,0.9245283,0
+andhra pradesh,krishna,0,0.96078438,0
+andhra pradesh,guntur,0,0.8607595,0
+andhra pradesh,prakasam,0,0.94117647,0
+andhra pradesh,sri potti sriramulu nellore,0,0.88679248,0
+andhra pradesh,y.s.r.,0,0.92592591,0
+andhra pradesh,kurnool,0,0.942029,0
+andhra pradesh,anantapur,0,0.94405586,0
+andhra pradesh,chittoor,0,0.95918369,0
+karnataka,belgaum,0,0.95070416,0
+karnataka,bagalkot,0,0.96428573,0
+karnataka,bijapur,0,0.93388432,0
+karnataka,bidar,0,0.96503496,0
+karnataka,raichur,0,0.93893135,0
+karnataka,koppal,0,0.91044784,0
+karnataka,gadag,0,0.91666675,0
+karnataka,dharwad,0,0.90243906,0
+karnataka,uttara kannada,0,0.95890403,0
+karnataka,haveri,0,0.90909094,0
+karnataka,bellary,0,0.89510483,0
+karnataka,chitradurga,0,0.91044772,0
+karnataka,davanagere,0,0.84615386,0
+karnataka,shimoga,0,0.9609375,0
+karnataka,udupi,0,0.96694207,0
+karnataka,chikmagalur,0,0.91603053,0
+karnataka,tumkur,0,0.89147288,0
+karnataka,bangalore,0,0.97600007,0
+karnataka,mandya,0,0.95275593,0
+karnataka,hassan,0,0.96124035,0
+karnataka,dakshina kannada,0,0.96402884,0
+karnataka,kodagu,0,0.94244605,0
+karnataka,mysore,0,0.91044778,0
+karnataka,chamarajanagar,0,0.92647058,0
+karnataka,gulbarga,0,0.87943262,0
+karnataka,yadgir,0,0.92537308,0
+karnataka,kolar,0,0.96341461,0
+karnataka,chikkaballapura,0,0.95833331,0
+karnataka,bangalore rural,0,0.9366197,0
+karnataka,ramanagara,0,0.8888889,0
+goa,north goa,0,0.97345132,0
+goa,south goa,0,0.97435892,0
+lakshadweep,lakshadweep,0,0.95555556,0
+kerala,kasaragod,0,0.93965518,0
+kerala,kannur,0,0.96039605,0
+kerala,wayanad,0,0.8888889,0
+kerala,kozhikode,0,0.98058259,0
+kerala,malappuram,0,0.98198199,0
+kerala,palakkad,0,0.94059408,0
+kerala,thrissur,0,0.93877554,0
+kerala,ernakulam,0,0.98888886,0
+kerala,idukki,0,0.96190476,0
+kerala,kottayam,0,0.97333336,0
 kerala,alappuzha,0,1,0
 kerala,pathanamthitta,0,1,0
 kerala,kollam,0,1,0
-kerala,thiruvananthapuram,0,.97058827,0
-tamil nadu,thiruvallur,0,.93548387,0
-tamil nadu,chennai,0,.99009901,0
-tamil nadu,kancheepuram,0,.94117641,0
-tamil nadu,vellore,0,.90740734,0
-tamil nadu,tiruvannamalai,0,.94444442,0
-tamil nadu,viluppuram,0,.92660558,0
-tamil nadu,salem,0,.95959598,0
-tamil nadu,namakkal,0,.9541285,0
-tamil nadu,erode,0,.96363634,0
-tamil nadu,the nilgiris,0,.97500002,0
-tamil nadu,dindigul,0,.90845066,0
-tamil nadu,karur,0,.88172042,0
-tamil nadu,tiruchirappalli,0,.88764054,0
-tamil nadu,perambalur,0,.89655173,0
-tamil nadu,ariyalur,0,.90322578,0
-tamil nadu,cuddalore,0,.91836733,0
-tamil nadu,nagapattinam,0,.8125,0
-tamil nadu,thiruvarur,0,.87755108,0
-tamil nadu,thanjavur,0,.91566265,0
-tamil nadu,pudukkottai,0,.93069303,0
-tamil nadu,sivaganga,0,.95283026,0
-tamil nadu,madurai,0,.96946567,0
-tamil nadu,theni,0,.93525183,0
-tamil nadu,virudhunagar,0,.91089112,0
-tamil nadu,ramanathapuram,0,.95833331,0
-tamil nadu,thoothukkudi,0,.8888889,0
-tamil nadu,tirunelveli,0,.94565219,0
-tamil nadu,kanniyakumari,0,.98058254,0
-tamil nadu,dharmapuri,0,.90099013,0
-tamil nadu,krishnagiri,0,.95384616,0
-tamil nadu,coimbatore,0,.93684208,0
-tamil nadu,tiruppur,0,.96470588,0
-puducherry,yanam,0,.9363057,0
-puducherry,puducherry,0,.90909094,0
-puducherry,mahe,0,.96103889,0
-puducherry,karaikal,0,.91150445,0
-andaman & nicobar islands,nicobars,0,.88709676,0
-andaman & nicobar islands,north  & middle andaman,0,.94285715,0
-andaman & nicobar islands,south andaman,0,.96212119,0
-arunachal pradesh,east siang,0,.91304356,0
-arunachal pradesh,kra daadi,0,.93333334,0
-arunachal pradesh,kurung kumey,0,.92063493,0
-arunachal pradesh,lohit,0,.90673578,0
-arunachal pradesh,longding,0,.88590598,0
-arunachal pradesh,namsai,0,.89473683,0
-arunachal pradesh,siang,0,.96753246,0
-arunachal pradesh,tirap,0,.89130437,0
-arunachal pradesh,west siang,0,.96240604,0
-assam,biswanath,0,.88148141,0
-assam,charaideo,0,.83561641,0
-assam,dhubri,0,.85000008,0
-assam,hojai,0,.83783782,0
-assam,jorhat,0,.83471072,0
-assam,karbi anglong,0,.83333331,0
-assam,majuli,0,.87500006,0
-assam,nagaon,0,.96376812,0
-assam,sivasagar,0,.82352948,0
-assam,sonitpur,0,.87162161,0
-assam,south salmara mancachar,0,.88271606,0
-assam,west karbi anglong,0,.83561641,0
-chhattisgarh,balod,0,.87195122,0
-chhattisgarh,baloda bazar,0,.89349115,0
-chhattisgarh,balrampur,0,.7734375,0
-chhattisgarh,bastar,0,.76223779,0
-chhattisgarh,bemetara,0,.87313432,0
-chhattisgarh,bilaspur,0,.83815026,0
-chhattisgarh,dantewada,0,.71604937,0
-chhattisgarh,durg,0,.95108694,0
-chhattisgarh,gariyaband,0,.86792451,0
-chhattisgarh,kodagaon,0,.77027029,0
-chhattisgarh,mungeli,0,.81512606,0
-chhattisgarh,raipur,0,.88461536,0
-chhattisgarh,sukma,0,.6936416,0
-chhattisgarh,surajpur,0,.83703703,0
-chhattisgarh,surguja,0,.81954885,0
-nct of delhi,central,0,.91089112,0
-nct of delhi,east,0,.95569628,0
-nct of delhi,new delhi,0,.91764706,0
-nct of delhi,north,0,.90833336,0
-nct of delhi,north east,0,.95483869,0
-nct of delhi,north west,0,.9512195,0
-nct of delhi,shahdara,0,.9770115,0
-nct of delhi,south,0,.97959185,0
-nct of delhi,south east,0,.96373057,0
-nct of delhi,south west,0,.94039732,0
-nct of delhi,west,0,.97604787,0
-gujarat,ahmadabad,0,.98518521,0
-gujarat,aravali,0,.86060607,0
-gujarat,bhavnagar,0,.96062988,0
-gujarat,botad,0,.96031743,0
-gujarat,chhota udaipur,0,.82352942,0
-gujarat,devbhumi dwarka,0,.86627907,0
-gujarat,gir somnath,0,.84313726,0
-gujarat,jamnagar,0,.969697,0
-gujarat,junagadh,0,.88435376,0
-gujarat,kheda,0,.86466163,0
-gujarat,mahisagar,0,.78512394,0
-gujarat,morbi,0,.9470588,0
-gujarat,panch mahals,0,.80571431,0
-gujarat,rajkot,0,.9319728,0
-gujarat,sabar kantha,0,.86466163,0
-gujarat,surendranagar,0,.9512195,0
-gujarat,vadodara,0,.86301368,0
-haryana,bhiwani,0,.85314685,0
-haryana,charkhi dadri,0,.89380533,0
-madhya pradesh,agar malwa,0,.92682922,0
-madhya pradesh,shajapur,0,.88043481,0
-maharashtra,palghar,0,.90082645,0
-maharashtra,thane,0,.91208798,0
-meghalaya,east garo hills,0,.85810816,0
-meghalaya,east jantia hills,0,.82941175,0
-meghalaya,north garo hills,0,.79354841,0
-meghalaya,south west garo hills,0,.8984375,0
-meghalaya,south west khasi hills,0,.74566472,0
-meghalaya,west garo hills,0,.91772151,0
-meghalaya,west jaintia hills,0,.68613136,0
-meghalaya,west khasi hills,0,.90909094,0
-punjab,fazilka,0,.89304811,0
-punjab,firozpur,0,.90697676,0
-punjab,gurdaspur,0,.89781022,0
-punjab,pathankot,0,.94400001,0
-telangana,adilabad,0,.90579712,0
-telangana,bhadradri kothagudem,0,.93103451,0
-telangana,hyderabad,0,.96428573,0
-telangana,jagitial,0,.98765427,0
-telangana,jangoan,0,.96703297,0
-telangana,jayashankar bhupalapally,0,.90825689,0
-telangana,jogulamba gadwal,0,.99199998,0
-telangana,kamareddy,0,.95575213,0
-telangana,karimnagar,0,.97727281,0
-telangana,khammam,0,.89719623,0
-telangana,komaram bheem asifabad,0,.93495935,0
-telangana,mahabubabad,0,.9285714,0
-telangana,mahabubnagar,0,.93430656,0
-telangana,mancherial,0,.99019605,0
-telangana,medak,0,.94392526,0
-telangana,medchal-malkajgiri,0,.94392526,0
-telangana,nagarkurnool,0,.91379309,0
-telangana,nalgonda,0,.99029118,0
-telangana,nirmal,0,.98901093,0
-telangana,nizamabad,0,.94897962,0
-telangana,peddapalli,0,.95454544,0
-telangana,rajanna sircilla,0,.98198199,0
-telangana,ranga reddy,0,.95192307,0
-telangana,sangareddy,0,.96808511,0
+kerala,thiruvananthapuram,0,0.97058827,0
+tamil nadu,thiruvallur,0,0.93548387,0
+tamil nadu,chennai,0,0.99009901,0
+tamil nadu,kancheepuram,0,0.94117641,0
+tamil nadu,vellore,0,0.90740734,0
+tamil nadu,tiruvannamalai,0,0.94444442,0
+tamil nadu,viluppuram,0,0.92660558,0
+tamil nadu,salem,0,0.95959598,0
+tamil nadu,namakkal,0,0.9541285,0
+tamil nadu,erode,0,0.96363634,0
+tamil nadu,the nilgiris,0,0.97500002,0
+tamil nadu,dindigul,0,0.90845066,0
+tamil nadu,karur,0,0.88172042,0
+tamil nadu,tiruchirappalli,0,0.88764054,0
+tamil nadu,perambalur,0,0.89655173,0
+tamil nadu,ariyalur,0,0.90322578,0
+tamil nadu,cuddalore,0,0.91836733,0
+tamil nadu,nagapattinam,0,0.8125,0
+tamil nadu,thiruvarur,0,0.87755108,0
+tamil nadu,thanjavur,0,0.91566265,0
+tamil nadu,pudukkottai,0,0.93069303,0
+tamil nadu,sivaganga,0,0.95283026,0
+tamil nadu,madurai,0,0.96946567,0
+tamil nadu,theni,0,0.93525183,0
+tamil nadu,virudhunagar,0,0.91089112,0
+tamil nadu,ramanathapuram,0,0.95833331,0
+tamil nadu,thoothukkudi,0,0.8888889,0
+tamil nadu,tirunelveli,0,0.94565219,0
+tamil nadu,kanniyakumari,0,0.98058254,0
+tamil nadu,dharmapuri,0,0.90099013,0
+tamil nadu,krishnagiri,0,0.95384616,0
+tamil nadu,coimbatore,0,0.93684208,0
+tamil nadu,tiruppur,0,0.96470588,0
+puducherry,yanam,0,0.9363057,0
+puducherry,puducherry,0,0.90909094,0
+puducherry,mahe,0,0.96103889,0
+puducherry,karaikal,0,0.91150445,0
+andaman & nicobar islands,nicobars,0,0.88709676,0
+andaman & nicobar islands,north  & middle andaman,0,0.94285715,0
+andaman & nicobar islands,south andaman,0,0.96212119,0
+arunachal pradesh,east siang,0,0.91304356,0
+arunachal pradesh,kra daadi,0,0.93333334,0
+arunachal pradesh,kurung kumey,0,0.92063493,0
+arunachal pradesh,lohit,0,0.90673578,0
+arunachal pradesh,longding,0,0.88590598,0
+arunachal pradesh,namsai,0,0.89473683,0
+arunachal pradesh,siang,0,0.96753246,0
+arunachal pradesh,tirap,0,0.89130437,0
+arunachal pradesh,west siang,0,0.96240604,0
+assam,biswanath,0,0.88148141,0
+assam,charaideo,0,0.83561641,0
+assam,dhubri,0,0.85000008,0
+assam,hojai,0,0.83783782,0
+assam,jorhat,0,0.83471072,0
+assam,karbi anglong,0,0.83333331,0
+assam,majuli,0,0.87500006,0
+assam,nagaon,0,0.96376812,0
+assam,sivasagar,0,0.82352948,0
+assam,sonitpur,0,0.87162161,0
+assam,south salmara mancachar,0,0.88271606,0
+assam,west karbi anglong,0,0.83561641,0
+chhattisgarh,balod,0,0.87195122,0
+chhattisgarh,baloda bazar,0,0.89349115,0
+chhattisgarh,balrampur,0,0.7734375,0
+chhattisgarh,bastar,0,0.76223779,0
+chhattisgarh,bemetara,0,0.87313432,0
+chhattisgarh,bilaspur,0,0.83815026,0
+chhattisgarh,dantewada,0,0.71604937,0
+chhattisgarh,durg,0,0.95108694,0
+chhattisgarh,gariyaband,0,0.86792451,0
+chhattisgarh,kodagaon,0,0.77027029,0
+chhattisgarh,mungeli,0,0.81512606,0
+chhattisgarh,raipur,0,0.88461536,0
+chhattisgarh,sukma,0,0.6936416,0
+chhattisgarh,surajpur,0,0.83703703,0
+chhattisgarh,surguja,0,0.81954885,0
+nct of delhi,central,0,0.91089112,0
+nct of delhi,east,0,0.95569628,0
+nct of delhi,new delhi,0,0.91764706,0
+nct of delhi,north,0,0.90833336,0
+nct of delhi,north east,0,0.95483869,0
+nct of delhi,north west,0,0.9512195,0
+nct of delhi,shahdara,0,0.9770115,0
+nct of delhi,south,0,0.97959185,0
+nct of delhi,south east,0,0.96373057,0
+nct of delhi,south west,0,0.94039732,0
+nct of delhi,west,0,0.97604787,0
+gujarat,ahmadabad,0,0.98518521,0
+gujarat,aravali,0,0.86060607,0
+gujarat,bhavnagar,0,0.96062988,0
+gujarat,botad,0,0.96031743,0
+gujarat,chhota udaipur,0,0.82352942,0
+gujarat,devbhumi dwarka,0,0.86627907,0
+gujarat,gir somnath,0,0.84313726,0
+gujarat,jamnagar,0,0.969697,0
+gujarat,junagadh,0,0.88435376,0
+gujarat,kheda,0,0.86466163,0
+gujarat,mahisagar,0,0.78512394,0
+gujarat,morbi,0,0.9470588,0
+gujarat,panch mahals,0,0.80571431,0
+gujarat,rajkot,0,0.9319728,0
+gujarat,sabar kantha,0,0.86466163,0
+gujarat,surendranagar,0,0.9512195,0
+gujarat,vadodara,0,0.86301368,0
+haryana,bhiwani,0,0.85314685,0
+haryana,charkhi dadri,0,0.89380533,0
+madhya pradesh,agar malwa,0,0.92682922,0
+madhya pradesh,shajapur,0,0.88043481,0
+maharashtra,palghar,0,0.90082645,0
+maharashtra,thane,0,0.91208798,0
+meghalaya,east garo hills,0,0.85810816,0
+meghalaya,east jantia hills,0,0.82941175,0
+meghalaya,north garo hills,0,0.79354841,0
+meghalaya,south west garo hills,0,0.8984375,0
+meghalaya,south west khasi hills,0,0.74566472,0
+meghalaya,west garo hills,0,0.91772151,0
+meghalaya,west jaintia hills,0,0.68613136,0
+meghalaya,west khasi hills,0,0.90909094,0
+punjab,fazilka,0,0.89304811,0
+punjab,firozpur,0,0.90697676,0
+punjab,gurdaspur,0,0.89781022,0
+punjab,pathankot,0,0.94400001,0
+telangana,adilabad,0,0.90579712,0
+telangana,bhadradri kothagudem,0,0.93103451,0
+telangana,hyderabad,0,0.96428573,0
+telangana,jagitial,0,0.98765427,0
+telangana,jangoan,0,0.96703297,0
+telangana,jayashankar bhupalapally,0,0.90825689,0
+telangana,jogulamba gadwal,0,0.99199998,0
+telangana,kamareddy,0,0.95575213,0
+telangana,karimnagar,0,0.97727281,0
+telangana,khammam,0,0.89719623,0
+telangana,komaram bheem asifabad,0,0.93495935,0
+telangana,mahabubabad,0,0.9285714,0
+telangana,mahabubnagar,0,0.93430656,0
+telangana,mancherial,0,0.99019605,0
+telangana,medak,0,0.94392526,0
+telangana,medchal-malkajgiri,0,0.94392526,0
+telangana,nagarkurnool,0,0.91379309,0
+telangana,nalgonda,0,0.99029118,0
+telangana,nirmal,0,0.98901093,0
+telangana,nizamabad,0,0.94897962,0
+telangana,peddapalli,0,0.95454544,0
+telangana,rajanna sircilla,0,0.98198199,0
+telangana,ranga reddy,0,0.95192307,0
+telangana,sangareddy,0,0.96808511,0
 telangana,siddipet,0,1,0
-telangana,suryapet,0,.97321427,0
-telangana,vikarabad,0,.96330273,0
-telangana,wanaparthy,0,.93577981,0
-telangana,warangal rural,0,.95833325,0
-telangana,warangal urban,0,.98230082,0
-telangana,yadadri bhuvanagiri,0,.96610177,0
-tripura,gomati,0,.92631578,0
-tripura,khowai,0,.89051104,0
-tripura,north tripura,0,.92592591,0
-tripura,sepahijala,0,.87878788,0
-tripura,south tripura,0,.78313255,0
-tripura,unakoti,0,.90476191,0
-tripura,west tripura,0,.9072848,0
-uttar pradesh,amethi,0,.88709676,0
-uttar pradesh,budaun,0,.86746991,0
-uttar pradesh,ghaziabad,0,.86842108,0
-uttar pradesh,hapur,0,.87387389,0
-uttar pradesh,moradabad,0,.86250001,0
-uttar pradesh,muzaffarnagar,0,.87709498,0
-uttar pradesh,rae bareli,0,.8581081,0
-uttar pradesh,sambhal,0,.89949751,0
-uttar pradesh,shamli,0,.88333333,0
-uttar pradesh,sultanpur,0,.85714287,0
-west bengal,paschim barddhaman,0,.86986303,0
-west bengal,purba barddhaman,0,.86330926,0
-jammu & kashmir,kupwara,0,.73076922,1
-jammu & kashmir,badgam,0,.69841272,1
-ladakh,leh(ladakh),0,.81355929,1
-ladakh,kargil,0,.79768789,1
-jammu & kashmir,punch,0,.79661018,1
-jammu & kashmir,rajouri,0,.74210525,1
-jammu & kashmir,kathua,0,.83941609,1
-jammu & kashmir,baramula,0,.67934781,1
-jammu & kashmir,bandipore,0,.61452514,1
-jammu & kashmir,srinagar,0,.78666669,1
-jammu & kashmir,ganderbal,0,.61256546,1
-jammu & kashmir,pulwama,0,.75280899,1
-jammu & kashmir,shupiyan,0,.80254775,1
-jammu & kashmir,anantnag,0,.74172187,1
-jammu & kashmir,kulgam,0,.60233921,1
-jammu & kashmir,doda,0,.64150941,1
-jammu & kashmir,ramban,0,.86734694,1
-jammu & kashmir,kishtwar,0,.51785713,1
-jammu & kashmir,udhampur,0,.82530123,1
-jammu & kashmir,reasi,0,.7062937,1
-jammu & kashmir,jammu,0,.87333333,1
-jammu & kashmir,samba,0,.89999998,1
-himachal pradesh,chamba,0,.70198673,1
-himachal pradesh,kangra,0,.75816995,1
-himachal pradesh,lahul & spiti,0,.89215684,1
-himachal pradesh,kullu,0,.79310346,1
-himachal pradesh,mandi,0,.83941609,1
-himachal pradesh,hamirpur,0,.84848487,1
-himachal pradesh,una,0,.74576271,1
-himachal pradesh,bilaspur,0,.76086956,1
-himachal pradesh,solan,0,.79259259,1
-himachal pradesh,sirmaur,0,.63095236,1
-himachal pradesh,shimla,0,.9236111,1
-himachal pradesh,kinnaur,0,.86400002,1
-punjab,kapurthala,0,.67816091,1
-punjab,jalandhar,0,.70289856,1
-punjab,hoshiarpur,0,.71764708,1
-punjab,shahid bhagat singh nagar,0,.6583851,1
-punjab,fatehgarh sahib,0,.6392405,1
-punjab,ludhiana,0,.70769233,1
-punjab,moga,0,.60377359,1
-punjab,muktsar,0,.46913579,1
-punjab,faridkot,0,.53237408,1
-punjab,bathinda,0,.40268457,1
-punjab,mansa,0,.36627907,1
-punjab,patiala,0,.58385092,1
-punjab,amritsar,0,.63095236,1
-punjab,tarn taran,0,.52287585,1
-punjab,rupnagar,0,.6134454,1
-punjab,sahibzada ajit singh nagar,0,.69158876,1
-punjab,sangrur,0,.58579886,1
-punjab,barnala,0,.68666667,1
-chandigarh,chandigarh,0,.70542634,1
-uttarakhand,uttarkashi,0,.55813956,1
-uttarakhand,chamoli,0,.66666669,1
-uttarakhand,rudraprayag,0,.71153843,1
-uttarakhand,tehri garhwal,0,.56291389,1
-uttarakhand,dehradun,0,.67796612,1
-uttarakhand,garhwal,0,.65811968,1
-uttarakhand,pithoragarh,0,.72392637,1
-uttarakhand,bageshwar,0,.71527779,1
-uttarakhand,almora,0,.85470086,1
-uttarakhand,champawat,0,.69411767,1
-uttarakhand,nainital,0,.66225165,1
-uttarakhand,udham singh nagar,0,.47972974,1
-uttarakhand,hardwar,0,.45864663,1
-haryana,panchkula,0,.69444442,1
-haryana,ambala,0,.61904764,1
-haryana,yamunanagar,0,.54802263,1
-haryana,kurukshetra,0,.53179193,1
-haryana,kaithal,0,.36842105,1
-haryana,karnal,0,.5219512,1
-haryana,panipat,0,.43846157,1
-haryana,sonipat,0,.59027779,1
-haryana,jind,0,.42682931,1
-haryana,fatehabad,0,.29012346,1
-haryana,sirsa,0,.48387098,1
-haryana,hisar,0,.42045453,1
-haryana,rohtak,0,.70987654,1
-haryana,jhajjar,0,.57553959,1
-haryana,mahendragarh,0,.5724138,1
-haryana,rewari,0,.56204379,1
-haryana,gurgaon,0,.6695652,1
-haryana,mewat,0,.25324675,1
-haryana,faridabad,0,.54545456,1
-haryana,palwal,0,.2918919,1
-rajasthan,ganganagar,0,.50520831,1
-rajasthan,hanumangarh,0,.45794392,1
-rajasthan,bikaner,0,.40170941,1
-rajasthan,churu,0,.48739493,1
-rajasthan,jhunjhunun,0,.56310678,1
-rajasthan,alwar,0,.46022728,1
-rajasthan,bharatpur,0,.3924731,1
-rajasthan,dhaulpur,0,.36158192,1
-rajasthan,karauli,0,.32222223,1
-rajasthan,sawai madhopur,0,.31413612,1
-rajasthan,dausa,0,.33838382,1
-rajasthan,jaipur,0,.53333336,1
-rajasthan,sikar,0,.58373207,1
-rajasthan,nagaur,0,.54615384,1
-rajasthan,jodhpur,0,.60000002,1
-rajasthan,jaisalmer,0,.56950676,1
-rajasthan,barmer,0,.57758623,1
-rajasthan,jalor,0,.56353593,1
-rajasthan,sirohi,0,.4879227,1
-rajasthan,pali,0,.68421054,1
-rajasthan,ajmer,0,.55769229,1
-rajasthan,tonk,0,.54010695,1
-rajasthan,bundi,0,.3952381,1
-rajasthan,bhilwara,0,.56804734,1
-rajasthan,rajsamand,0,.5582822,1
-rajasthan,dungarpur,0,.53191489,1
-rajasthan,banswara,0,.30158731,1
-rajasthan,chittaurgarh,0,.50666666,1
-rajasthan,kota,0,.61413044,1
-rajasthan,baran,0,.3918919,1
-rajasthan,jhalawar,0,.33879781,1
-rajasthan,udaipur,0,.46969697,1
-rajasthan,pratapgarh,0,.32142857,1
-uttar pradesh,saharanpur,0,.40677965,1
-uttar pradesh,bijnor,0,.39613527,1
-uttar pradesh,rampur,0,.3548387,1
-uttar pradesh,jyotiba phule nagar,0,.41,1
-uttar pradesh,meerut,0,.52307695,1
-uttar pradesh,baghpat,0,.45728645,1
-uttar pradesh,gautam buddha nagar,0,.56074768,1
-uttar pradesh,bulandshahr,0,.49324325,1
-uttar pradesh,aligarh,0,.40522876,1
-uttar pradesh,mahamaya nagar,0,.44324324,1
-uttar pradesh,mathura,0,.30612245,1
-uttar pradesh,agra,0,.39884394,1
-uttar pradesh,firozabad,0,.41346154,1
-uttar pradesh,mainpuri,0,.49206349,1
-uttar pradesh,bareilly,0,.33812949,1
-uttar pradesh,pilibhit,0,.38650307,1
-uttar pradesh,shahjahanpur,0,.30612245,1
-uttar pradesh,kheri,0,.28488371,1
-uttar pradesh,sitapur,0,.23333333,1
-uttar pradesh,hardoi,0,.31818181,1
-uttar pradesh,unnao,0,.44444445,1
-uttar pradesh,lucknow,0,.55624998,1
-uttar pradesh,farrukhabad,0,.40101522,1
-uttar pradesh,kannauj,0,.40796021,1
-uttar pradesh,etawah,0,.5,1
-uttar pradesh,auraiya,0,.43093926,1
-uttar pradesh,kanpur dehat,0,.40123457,1
-uttar pradesh,kanpur nagar,0,.64327484,1
-uttar pradesh,jalaun,0,.37185928,1
-uttar pradesh,jhansi,0,.55947137,1
-uttar pradesh,lalitpur,0,.2820513,1
-uttar pradesh,hamirpur,0,.41626793,1
-uttar pradesh,mahoba,0,.3561644,1
-uttar pradesh,banda,0,.30337077,1
-uttar pradesh,chitrakoot,0,.37951806,1
-uttar pradesh,fatehpur,0,.497006,1
-uttar pradesh,pratapgarh,0,.51960784,1
-uttar pradesh,kaushambi,0,.41025642,1
-uttar pradesh,allahabad,0,.45890412,1
-uttar pradesh,bara banki,0,.47849461,1
-uttar pradesh,faizabad,0,.52017939,1
-uttar pradesh,ambedkar nagar,0,.4858757,1
-uttar pradesh,bahraich,0,.3935484,1
-uttar pradesh,shrawasti,0,.53475934,1
-uttar pradesh,balrampur,0,.53846157,1
-uttar pradesh,gonda,0,.52356023,1
-uttar pradesh,siddharthnagar,0,.61751151,1
-uttar pradesh,basti,0,.54751134,1
-uttar pradesh,sant kabir nagar,0,.54497355,1
-uttar pradesh,mahrajganj,0,.57297295,1
-uttar pradesh,gorakhpur,0,.60869563,1
-uttar pradesh,kushinagar,0,.61734694,1
-uttar pradesh,deoria,0,.5970149,1
-uttar pradesh,azamgarh,0,.47999996,1
-uttar pradesh,mau,0,.61979169,1
-uttar pradesh,ballia,0,.52201259,1
-uttar pradesh,jaunpur,0,.6514523,1
-uttar pradesh,ghazipur,0,.46009389,1
-uttar pradesh,chandauli,0,.44808742,1
-uttar pradesh,varanasi,0,.55882353,1
-uttar pradesh,sant ravidas nagar (bhadohi),0,.52601159,1
-uttar pradesh,mirzapur,0,.4770115,1
-uttar pradesh,sonbhadra,0,.39393941,1
-uttar pradesh,etah,0,.40101522,1
-uttar pradesh,kanshiram nagar,0,.4413408,1
-bihar,pashchim champaran,0,.46753246,1
-bihar,purba champaran,0,.59036142,1
-bihar,sheohar,0,.4893617,1
-bihar,sitamarhi,0,.58787876,1
-bihar,madhubani,0,.58940399,1
-bihar,supaul,0,.51572329,1
-bihar,araria,0,.40983605,1
-bihar,kishanganj,0,.38181818,1
-bihar,purnia,0,.55757576,1
-bihar,katihar,0,.37037036,1
-bihar,madhepura,0,.48587573,1
-bihar,saharsa,0,.53383458,1
-bihar,darbhanga,0,.52258062,1
-bihar,muzaffarpur,0,.503268,1
-bihar,gopalganj,0,.57692307,1
-bihar,siwan,0,.51648355,1
-bihar,saran,0,.44692737,1
-bihar,vaishali,0,.51977402,1
-bihar,samastipur,0,.56578946,1
-bihar,begusarai,0,.48167542,1
-bihar,khagaria,0,.53439152,1
-bihar,bhagalpur,0,.55367231,1
-bihar,banka,0,.5766871,1
-bihar,munger,0,.54970759,1
-bihar,lakhisarai,0,.48404256,1
-bihar,sheikhpura,0,.42514971,1
-bihar,nalanda,0,.48666668,1
-bihar,patna,0,.5804196,1
-bihar,bhojpur,0,.44827586,1
-bihar,buxar,0,.48235294,1
-bihar,kaimur (bhabua),0,.45348838,1
-bihar,rohtas,0,.43093923,1
-bihar,aurangabad,0,.44943821,1
-bihar,gaya,0,.42708334,1
-bihar,nawada,0,.48192769,1
-bihar,jamui,0,.5582822,1
-bihar,jehanabad,0,.35593221,1
-bihar,arwal,0,.37888196,1
-sikkim,north  district,0,.81967211,1
-sikkim,west district,0,.85802472,1
-sikkim,south district,0,.81415927,1
-sikkim,east district,0,.87155962,1
-arunachal pradesh,tawang,0,.80124223,1
-arunachal pradesh,west kameng,0,.82954544,1
-arunachal pradesh,east kameng,0,.70921987,1
-arunachal pradesh,papum pare,0,.85093164,1
-arunachal pradesh,upper subansiri,0,.70547944,1
-arunachal pradesh,upper siang,0,.81451613,1
-arunachal pradesh,changlang,0,.76530612,1
-arunachal pradesh,lower subansiri,0,.83749998,1
-arunachal pradesh,dibang valley,0,.88524598,1
-arunachal pradesh,lower dibang valley,0,.91208792,1
-arunachal pradesh,anjaw,0,.77868855,1
-nagaland,mon,0,.76712328,1
-nagaland,mokokchung,0,.87999994,1
-nagaland,zunheboto,0,.88461536,1
-nagaland,wokha,0,.91891885,1
-nagaland,dimapur,0,.87898088,1
-nagaland,phek,0,.77999997,1
-nagaland,tuensang,0,.64615387,1
-nagaland,longleng,0,.74647886,1
-nagaland,kiphire,0,.7280702,1
-nagaland,kohima,0,.83211678,1
-nagaland,peren,0,.75,1
-manipur,senapati,0,.70491803,1
-manipur,tamenglong,0,.61313868,1
-manipur,churachandpur,0,.78985512,1
-manipur,bishnupur,0,.64197528,1
-manipur,thoubal,0,.72151899,1
-manipur,imphal west,0,.73722625,1
-manipur,imphal east,0,.72727275,1
-manipur,ukhrul,0,.66037738,1
-manipur,chandel,0,.80000001,1
-mizoram,mamit,0,.72611463,1
-mizoram,kolasib,0,.84722221,1
-mizoram,aizawl,0,.87943256,1
-mizoram,champhai,0,.86538464,1
-mizoram,serchhip,0,.88372093,1
-mizoram,lunglei,0,.75757575,1
-mizoram,lawngtlai,0,.62941176,1
-mizoram,saiha,0,.74242425,1
-tripura,dhalai,0,.40625,1
-meghalaya,south garo hills,0,.72727275,1
-meghalaya,ribhoi,0,.61931819,1
-meghalaya,east khasi hills,0,.68263471,1
-assam,kokrajhar,0,.5354839,1
-assam,goalpara,0,.47674417,1
-assam,barpeta,0,.50609756,1
-assam,morigaon,0,.55696201,1
-assam,lakhimpur,0,.61240309,1
-assam,dhemaji,0,.54545456,1
-assam,tinsukia,0,.5212121,1
-assam,dibrugarh,0,.57861638,1
-assam,golaghat,0,.51999998,1
-assam,dima hasao,0,.64516127,1
-assam,cachar,0,.57718122,1
-assam,karimganj,0,.58125001,1
-assam,hailakandi,0,.3974359,1
-assam,bongaigaon,0,.62195122,1
-assam,chirang,0,.53801167,1
-assam,kamrup,0,.57352942,1
-assam,kamrup metropolitan,0,.83536583,1
-assam,nalbari,0,.53896105,1
-assam,baksa,0,.65662652,1
-assam,darrang,0,.47999999,1
-assam,udalguri,0,.55747128,1
-west bengal,darjiling,0,.69461077,1
-west bengal,jalpaiguri,0,.5714286,1
-west bengal,koch bihar,0,.42011833,1
-west bengal,uttar dinajpur,0,.42780748,1
-west bengal,dakshin dinajpur,0,.59302324,1
-west bengal,maldah,0,.36875001,1
-west bengal,murshidabad,0,.31097561,1
-west bengal,birbhum,0,.37869823,1
-west bengal,nadia,0,.43243241,1
-west bengal,north twenty four parganas,0,.63333333,1
-west bengal,hugli,0,.58757061,1
-west bengal,bankura,0,.30985916,1
-west bengal,puruliya,0,.26190478,1
-west bengal,haora,0,.65030676,1
-west bengal,kolkata,0,.84353739,1
-west bengal,south twenty four parganas,0,.49404761,1
-west bengal,paschim medinipur,0,.38513511,1
-west bengal,purba medinipur,0,.52173913,1
-jharkhand,garhwa,0,.41807908,1
-jharkhand,chatra,0,.33939394,1
-jharkhand,kodarma,0,.43902439,1
-jharkhand,giridih,0,.48466256,1
-jharkhand,deoghar,0,.4519774,1
-jharkhand,godda,0,.46456692,1
-jharkhand,sahibganj,0,.32885906,1
-jharkhand,pakur,0,.36000001,1
-jharkhand,dhanbad,0,.46961325,1
-jharkhand,bokaro,0,.55621302,1
-jharkhand,lohardaga,0,.52564102,1
-jharkhand,purbi singhbhum,0,.60389608,1
-jharkhand,palamu,0,.48275858,1
-jharkhand,latehar,0,.40659341,1
-jharkhand,hazaribagh,0,.56626505,1
-jharkhand,ramgarh,0,.55494505,1
-jharkhand,dumka,0,.55303031,1
-jharkhand,jamtara,0,.45333335,1
-jharkhand,ranchi,0,.67796612,1
-jharkhand,khunti,0,.41935483,1
-jharkhand,gumla,0,.37566137,1
-jharkhand,simdega,0,.40764335,1
-jharkhand,pashchimi singhbhum,0,.33802816,1
-jharkhand,saraikela-kharsawan,0,.55440414,1
-odisha,bargarh,0,.37599999,1
-odisha,jharsuguda,0,.5106383,1
-odisha,sambalpur,0,.52592593,1
-odisha,debagarh,0,.50735295,1
-odisha,sundargarh,0,.59124088,1
-odisha,kendujhar,0,.40816328,1
-odisha,mayurbhanj,0,.4148148,1
-odisha,baleshwar,0,.5869565,1
-odisha,bhadrak,0,.62987012,1
-odisha,kendrapara,0,.64516127,1
-odisha,jagatsinghapur,0,.7352941,1
-odisha,cuttack,0,.54098362,1
-odisha,jajapur,0,.53061223,1
-odisha,dhenkanal,0,.55833334,1
-odisha,anugul,0,.56725144,1
-odisha,nayagarh,0,.61971831,1
-odisha,khordha,0,.6418919,1
-odisha,puri,0,.57037038,1
-odisha,ganjam,0,.52666664,1
-odisha,gajapati,0,.36301368,1
-odisha,kandhamal,0,.41958043,1
-odisha,baudh,0,.35185185,1
-odisha,subarnapur,0,.40136054,1
-odisha,balangir,0,.49999997,1
-odisha,nuapada,0,.31756756,1
-odisha,kalahandi,0,.37912086,1
-odisha,rayagada,0,.30463576,1
-odisha,nabarangapur,0,.27922079,1
-odisha,koraput,0,.29299363,1
-odisha,malkangiri,0,.32515338,1
-chhattisgarh,koriya,0,.41007194,1
-chhattisgarh,jashpur,0,.39393941,1
-chhattisgarh,raigarh,0,.40845072,1
-chhattisgarh,korba,0,.49707603,1
-chhattisgarh,janjgir - champa,0,.41958043,1
-chhattisgarh,kabeerdham,0,.30075186,1
-chhattisgarh,rajnandgaon,0,.37125748,1
-chhattisgarh,mahasamund,0,.36312848,1
-chhattisgarh,dhamtari,0,.4217687,1
-chhattisgarh,uttar bastar kanker,0,.37692308,1
-chhattisgarh,narayanpur,0,.40462428,1
-chhattisgarh,bijapur,0,.35882354,1
-madhya pradesh,sheopur,0,.28187919,1
-madhya pradesh,morena,0,.42675158,1
-madhya pradesh,bhind,0,.41007197,1
-madhya pradesh,gwalior,0,.43478262,1
-madhya pradesh,datia,0,.37414965,1
-madhya pradesh,shivpuri,0,.27102804,1
-madhya pradesh,tikamgarh,0,.26804122,1
-madhya pradesh,chhatarpur,0,.33742332,1
-madhya pradesh,panna,0,.34810126,1
-madhya pradesh,sagar,0,.32098764,1
-madhya pradesh,damoh,0,.35460994,1
-madhya pradesh,satna,0,.46067414,1
-madhya pradesh,rewa,0,.41904762,1
-madhya pradesh,umaria,0,.25862068,1
-madhya pradesh,neemuch,0,.45238096,1
-madhya pradesh,mandsaur,0,.33333334,1
-madhya pradesh,ratlam,0,.31724137,1
-madhya pradesh,ujjain,0,.53714287,1
-madhya pradesh,dewas,0,.39459461,1
-madhya pradesh,dhar,0,.44827583,1
-madhya pradesh,indore,0,.60344827,1
-madhya pradesh,khargone (west nimar),0,.34146342,1
-madhya pradesh,barwani,0,.22285715,1
-madhya pradesh,rajgarh,0,.30882353,1
-madhya pradesh,vidisha,0,.32704404,1
-madhya pradesh,bhopal,0,.42857146,1
-madhya pradesh,sehore,0,.44516128,1
-madhya pradesh,raisen,0,.2888889,1
-madhya pradesh,betul,0,.40490797,1
-madhya pradesh,harda,0,.328125,1
-madhya pradesh,hoshangabad,0,.38036808,1
-madhya pradesh,katni,0,.30208334,1
-madhya pradesh,jabalpur,0,.18181819,1
-madhya pradesh,narsimhapur,0,.40935671,1
-madhya pradesh,dindori,0,.2977528,1
-madhya pradesh,mandla,0,.31927711,1
-madhya pradesh,chhindwara,0,.33834586,1
-madhya pradesh,seoni,0,.32704404,1
-madhya pradesh,balaghat,0,.55038762,1
-madhya pradesh,guna,0,.28658536,1
-madhya pradesh,ashoknagar,0,.20454545,1
-madhya pradesh,shahdol,0,.28787878,1
-madhya pradesh,anuppur,0,.32236841,1
-madhya pradesh,sidhi,0,.46583855,1
-madhya pradesh,singrauli,0,.27500001,1
-madhya pradesh,jhabua,0,.23741007,1
-madhya pradesh,alirajpur,0,.27388534,1
-madhya pradesh,khandwa (east nimar),0,.21428572,1
-madhya pradesh,burhanpur,0,.3125,1
-gujarat,kachchh,0,.50279331,1
-gujarat,banas kantha,0,.37588653,1
-gujarat,patan,0,.38323355,1
-gujarat,mahesana,0,.47413793,1
-gujarat,gandhinagar,0,.48739496,1
-gujarat,porbandar,0,.57647061,1
-gujarat,amreli,0,.36496347,1
-gujarat,anand,0,.442029,1
-gujarat,dohad,0,.24431819,1
-gujarat,narmada,0,.32846716,1
-gujarat,bharuch,0,.42975205,1
-gujarat,the dangs,0,.33082706,1
-gujarat,navsari,0,.63758391,1
-gujarat,valsad,0,.6381579,1
-gujarat,surat,0,.56818181,1
-gujarat,tapi,0,.46000001,1
-dadra & nagar haveli and daman & diu,diu,0,.70322579,1
-dadra & nagar haveli and daman & diu,daman,0,.76377952,1
-dadra & nagar haveli and daman & diu,dadra & nagar haveli,0,.56643355,1
-maharashtra,nandurbar,0,.23684211,1
-maharashtra,dhule,0,.3561644,1
-maharashtra,jalgaon,0,.35384616,1
-maharashtra,buldana,0,.38787875,1
-maharashtra,akola,0,.36231884,1
-maharashtra,washim,0,.37349397,1
-maharashtra,amravati,0,.4539474,1
-maharashtra,wardha,0,.51724136,1
-maharashtra,nagpur,0,.67045456,1
-maharashtra,bhandara,0,.42968753,1
-maharashtra,gondiya,0,.43478259,1
-maharashtra,gadchiroli,0,.24264705,1
-maharashtra,chandrapur,0,.44202903,1
-maharashtra,yavatmal,0,.34146342,1
-maharashtra,nanded,0,.34337351,1
-maharashtra,hingoli,0,.22891565,1
-maharashtra,parbhani,0,.30555555,1
-maharashtra,jalna,0,.43609023,1
-maharashtra,aurangabad,0,.3941606,1
-maharashtra,nashik,0,.53787881,1
-maharashtra,mumbai suburban,0,.83823532,1
-maharashtra,mumbai,0,.79710144,1
-maharashtra,raigarh,0,.58666664,1
-maharashtra,pune,0,.76027399,1
-maharashtra,ahmadnagar,0,.41059604,1
-maharashtra,bid,0,.3968254,1
-maharashtra,latur,0,.40441176,1
-maharashtra,osmanabad,0,.43307087,1
-maharashtra,solapur,0,.42741936,1
-maharashtra,satara,0,.64335662,1
-maharashtra,ratnagiri,0,.60483873,1
-maharashtra,sindhudurg,0,.7227723,1
-maharashtra,kolhapur,0,.4437086,1
-maharashtra,sangli,0,.66417909,1
-andhra pradesh,srikakulam,0,.58823532,1
-andhra pradesh,vizianagaram,0,.32824427,1
-andhra pradesh,visakhapatnam,0,.65811968,1
-andhra pradesh,east godavari,0,.50847459,1
-andhra pradesh,west godavari,0,.58461541,1
-andhra pradesh,krishna,0,.50406504,1
-andhra pradesh,guntur,0,.38532114,1
-andhra pradesh,prakasam,0,.36936936,1
-andhra pradesh,sri potti sriramulu nellore,0,.47260273,1
-andhra pradesh,y.s.r.,0,.60144925,1
-andhra pradesh,kurnool,0,.3537415,1
-andhra pradesh,anantapur,0,.46923077,1
-andhra pradesh,chittoor,0,.44537815,1
-karnataka,belgaum,0,.55279505,1
-karnataka,bagalkot,0,.47368419,1
-karnataka,bijapur,0,.53020132,1
-karnataka,bidar,0,.45348838,1
-karnataka,raichur,0,.38690478,1
-karnataka,koppal,0,.40909094,1
-karnataka,gadag,0,.36363637,1
-karnataka,dharwad,0,.51923078,1
-karnataka,uttara kannada,0,.69536424,1
-karnataka,haveri,0,.3859649,1
-karnataka,bellary,0,.39041099,1
-karnataka,chitradurga,0,.60000002,1
-karnataka,davanagere,0,.60000002,1
-karnataka,shimoga,0,.66467065,1
-karnataka,udupi,0,.85029942,1
-karnataka,chikmagalur,0,.68345326,1
-karnataka,tumkur,0,.7368421,1
-karnataka,bangalore,0,.88617885,1
-karnataka,mandya,0,.73134327,1
-karnataka,hassan,0,.63354039,1
-karnataka,dakshina kannada,0,.77777779,1
-karnataka,kodagu,0,.77241379,1
-karnataka,mysore,0,.45522389,1
-karnataka,chamarajanagar,0,.57714283,1
-karnataka,gulbarga,0,.5625,1
-karnataka,yadgir,0,.29142857,1
-karnataka,kolar,0,.62162161,1
-karnataka,chikkaballapura,0,.65068495,1
-karnataka,bangalore rural,0,.75694442,1
-karnataka,ramanagara,0,.77118641,1
-goa,north goa,0,.91176468,1
-goa,south goa,0,.91616768,1
-lakshadweep,lakshadweep,0,.84393066,1
-kerala,kasaragod,0,.875,1
-kerala,kannur,0,.88524586,1
-kerala,wayanad,0,.79130435,1
-kerala,kozhikode,0,.84496123,1
-kerala,malappuram,0,.86792451,1
-kerala,palakkad,0,.85271317,1
-kerala,thrissur,0,.84761912,1
-kerala,ernakulam,0,.91150445,1
-kerala,idukki,0,.84684682,1
-kerala,kottayam,0,.86792451,1
-kerala,alappuzha,0,.75454545,1
-kerala,pathanamthitta,0,.9130435,1
-kerala,kollam,0,.86842108,1
-kerala,thiruvananthapuram,0,.91818184,1
-tamil nadu,thiruvallur,0,.81300813,1
-tamil nadu,chennai,0,.86792451,1
-tamil nadu,kancheepuram,0,.77319586,1
-tamil nadu,vellore,0,.71200001,1
-tamil nadu,tiruvannamalai,0,.62244898,1
-tamil nadu,viluppuram,0,.63934427,1
-tamil nadu,salem,0,.61818182,1
-tamil nadu,namakkal,0,.77450973,1
-tamil nadu,erode,0,.78151262,1
-tamil nadu,the nilgiris,0,.875,1
-tamil nadu,dindigul,0,.70921987,1
-tamil nadu,karur,0,.70192307,1
-tamil nadu,tiruchirappalli,0,.67676765,1
-tamil nadu,perambalur,0,.68932039,1
-tamil nadu,ariyalur,0,.71428567,1
-tamil nadu,cuddalore,0,.76999998,1
-tamil nadu,nagapattinam,0,.71304345,1
-tamil nadu,thiruvarur,0,.69841272,1
-tamil nadu,thanjavur,0,.77884614,1
-tamil nadu,pudukkottai,0,.68217063,1
-tamil nadu,sivaganga,0,.82222229,1
-tamil nadu,madurai,0,.8309859,1
-tamil nadu,theni,0,.67105263,1
-tamil nadu,virudhunagar,0,.78512394,1
-tamil nadu,ramanathapuram,0,.74509805,1
-tamil nadu,thoothukkudi,0,.84615386,1
-tamil nadu,tirunelveli,0,.72222221,1
-tamil nadu,kanniyakumari,0,.88983053,1
-tamil nadu,dharmapuri,0,.66666669,1
-tamil nadu,krishnagiri,0,.69718307,1
-tamil nadu,coimbatore,0,.86915886,1
-tamil nadu,tiruppur,0,.7263158,1
-puducherry,yanam,0,.7482993,1
-puducherry,puducherry,0,.78861791,1
-puducherry,mahe,0,.93150681,1
-puducherry,karaikal,0,.80769229,1
-andaman & nicobar islands,nicobars,0,.63999999,1
-andaman & nicobar islands,north  & middle andaman,0,.84615386,1
-andaman & nicobar islands,south andaman,0,.80272108,1
-arunachal pradesh,east siang,0,.85207099,1
-arunachal pradesh,kra daadi,0,.74074072,1
-arunachal pradesh,kurung kumey,0,.75,1
-arunachal pradesh,lohit,0,.75155282,1
-arunachal pradesh,longding,0,.72784811,1
-arunachal pradesh,namsai,0,.59036142,1
-arunachal pradesh,siang,0,.89880955,1
-arunachal pradesh,tirap,0,.72077924,1
-arunachal pradesh,west siang,0,.77205884,1
-assam,biswanath,0,.56790125,1
-assam,charaideo,0,.58888888,1
-assam,dhubri,0,.54605263,1
-assam,hojai,0,.6241135,1
-assam,jorhat,0,.53750002,1
-assam,karbi anglong,0,.62352943,1
-assam,majuli,0,.58522725,1
-assam,nagaon,0,.56983238,1
-assam,sivasagar,0,.6118421,1
-assam,sonitpur,0,.67088604,1
-assam,south salmara mancachar,0,.51445085,1
-assam,west karbi anglong,0,.47058827,1
-chhattisgarh,balod,0,.44848484,1
-chhattisgarh,baloda bazar,0,.44378698,1
-chhattisgarh,balrampur,0,.30935252,1
-chhattisgarh,bastar,0,.40000001,1
-chhattisgarh,bemetara,0,.23943664,1
-chhattisgarh,bilaspur,0,.39473686,1
-chhattisgarh,dantewada,0,.48369566,1
-chhattisgarh,durg,0,.59770113,1
-chhattisgarh,gariyaband,0,.32098764,1
-chhattisgarh,kodagaon,0,.30769232,1
-chhattisgarh,mungeli,0,.2932331,1
-chhattisgarh,raipur,0,.51351351,1
-chhattisgarh,sukma,0,.3463687,1
-chhattisgarh,surajpur,0,.30215827,1
-chhattisgarh,surguja,0,.33774835,1
-nct of delhi,central,0,.72519082,1
-nct of delhi,east,0,.67948717,1
-nct of delhi,new delhi,0,.68055558,1
-nct of delhi,north,0,.70503598,1
-nct of delhi,north east,0,.61971831,1
-nct of delhi,north west,0,.79729736,1
-nct of delhi,shahdara,0,.81366462,1
-nct of delhi,south,0,.77181208,1
-nct of delhi,south east,0,.7764706,1
-nct of delhi,south west,0,.84615386,1
-nct of delhi,west,0,.716129,1
-gujarat,ahmadabad,0,.73972601,1
-gujarat,aravali,0,.27380952,1
-gujarat,bhavnagar,0,.35606059,1
-gujarat,botad,0,.41726619,1
-gujarat,chhota udaipur,0,.23636363,1
-gujarat,devbhumi dwarka,0,.4427861,1
-gujarat,gir somnath,0,.47752807,1
-gujarat,jamnagar,0,.66257668,1
-gujarat,junagadh,0,.42105263,1
-gujarat,kheda,0,.24203822,1
-gujarat,mahisagar,0,.33093524,1
-gujarat,morbi,0,.54347825,1
-gujarat,panch mahals,0,.26881722,1
-gujarat,rajkot,0,.65306121,1
-gujarat,sabar kantha,0,.4375,1
-gujarat,surendranagar,0,.42857143,1
-gujarat,vadodara,0,.61764705,1
-haryana,bhiwani,0,.39506173,1
-haryana,charkhi dadri,0,.54098362,1
-madhya pradesh,agar malwa,0,.2173913,1
-madhya pradesh,shajapur,0,.42774567,1
-maharashtra,palghar,0,.61832058,1
-maharashtra,thane,0,.64285713,1
-meghalaya,east garo hills,0,.60301507,1
-meghalaya,east jantia hills,0,.68095237,1
-meghalaya,north garo hills,0,.52717394,1
-meghalaya,south west garo hills,0,.56626505,1
-meghalaya,south west khasi hills,0,.60220987,1
-meghalaya,west garo hills,0,.86956519,1
-meghalaya,west jaintia hills,0,.64367819,1
-meghalaya,west khasi hills,0,.54404145,1
-punjab,fazilka,0,.43016759,1
-punjab,firozpur,0,.58385092,1
-punjab,gurdaspur,0,.66459626,1
-punjab,pathankot,0,.74045801,1
-telangana,adilabad,0,.40397349,1
-telangana,bhadradri kothagudem,0,.52702701,1
-telangana,hyderabad,0,.74257427,1
-telangana,jagitial,0,.72483224,1
-telangana,jangoan,0,.56,1
-telangana,jayashankar bhupalapally,0,.55371898,1
-telangana,jogulamba gadwal,0,.3602941,1
-telangana,kamareddy,0,.44137931,1
-telangana,karimnagar,0,.66666669,1
-telangana,khammam,0,.54482758,1
-telangana,komaram bheem asifabad,0,.3125,1
-telangana,mahabubabad,0,.41176471,1
-telangana,mahabubnagar,0,.52258062,1
-telangana,mancherial,0,.57575756,1
-telangana,medak,0,.49253735,1
-telangana,medchal-malkajgiri,0,.79527557,1
-telangana,nagarkurnool,0,.53061223,1
-telangana,nalgonda,0,.5673759,1
-telangana,nirmal,0,.63114756,1
-telangana,nizamabad,0,.65600002,1
-telangana,peddapalli,0,.60283691,1
-telangana,rajanna sircilla,0,.65734267,1
-telangana,ranga reddy,0,.60000002,1
-telangana,sangareddy,0,.66666669,1
-telangana,siddipet,0,.68644071,1
-telangana,suryapet,0,.51111114,1
-telangana,vikarabad,0,.48461539,1
-telangana,wanaparthy,0,.53793103,1
-telangana,warangal rural,0,.49593499,1
-telangana,warangal urban,0,.72027969,1
-telangana,yadadri bhuvanagiri,0,.6948052,1
-tripura,gomati,0,.54098362,1
-tripura,khowai,0,.55479455,1
-tripura,north tripura,0,.55033559,1
-tripura,sepahijala,0,.49629632,1
-tripura,south tripura,0,.47058824,1
-tripura,unakoti,0,.45061725,1
-tripura,west tripura,0,.65277779,1
-uttar pradesh,amethi,0,.5139665,1
-uttar pradesh,budaun,0,.28248587,1
-uttar pradesh,ghaziabad,0,.5714286,1
-uttar pradesh,hapur,0,.45273635,1
-uttar pradesh,moradabad,0,.44692737,1
-uttar pradesh,muzaffarnagar,0,.42857143,1
-uttar pradesh,rae bareli,0,.42639595,1
-uttar pradesh,sambhal,0,.32160804,1
-uttar pradesh,shamli,0,.35449734,1
-uttar pradesh,sultanpur,0,.41884816,1
-west bengal,paschim barddhaman,0,.45882353,1
-west bengal,purba barddhaman,0,.51704544,1
+telangana,suryapet,0,0.97321427,0
+telangana,vikarabad,0,0.96330273,0
+telangana,wanaparthy,0,0.93577981,0
+telangana,warangal rural,0,0.95833325,0
+telangana,warangal urban,0,0.98230082,0
+telangana,yadadri bhuvanagiri,0,0.96610177,0
+tripura,gomati,0,0.92631578,0
+tripura,khowai,0,0.89051104,0
+tripura,north tripura,0,0.92592591,0
+tripura,sepahijala,0,0.87878788,0
+tripura,south tripura,0,0.78313255,0
+tripura,unakoti,0,0.90476191,0
+tripura,west tripura,0,0.9072848,0
+uttar pradesh,amethi,0,0.88709676,0
+uttar pradesh,budaun,0,0.86746991,0
+uttar pradesh,ghaziabad,0,0.86842108,0
+uttar pradesh,hapur,0,0.87387389,0
+uttar pradesh,moradabad,0,0.86250001,0
+uttar pradesh,muzaffarnagar,0,0.87709498,0
+uttar pradesh,rae bareli,0,0.8581081,0
+uttar pradesh,sambhal,0,0.89949751,0
+uttar pradesh,shamli,0,0.88333333,0
+uttar pradesh,sultanpur,0,0.85714287,0
+west bengal,paschim barddhaman,0,0.86986303,0
+west bengal,purba barddhaman,0,0.86330926,0
+jammu & kashmir,kupwara,0,0.73076922,1
+jammu & kashmir,badgam,0,0.69841272,1
+ladakh,leh(ladakh),0,0.81355929,1
+ladakh,kargil,0,0.79768789,1
+jammu & kashmir,punch,0,0.79661018,1
+jammu & kashmir,rajouri,0,0.74210525,1
+jammu & kashmir,kathua,0,0.83941609,1
+jammu & kashmir,baramula,0,0.67934781,1
+jammu & kashmir,bandipore,0,0.61452514,1
+jammu & kashmir,srinagar,0,0.78666669,1
+jammu & kashmir,ganderbal,0,0.61256546,1
+jammu & kashmir,pulwama,0,0.75280899,1
+jammu & kashmir,shupiyan,0,0.80254775,1
+jammu & kashmir,anantnag,0,0.74172187,1
+jammu & kashmir,kulgam,0,0.60233921,1
+jammu & kashmir,doda,0,0.64150941,1
+jammu & kashmir,ramban,0,0.86734694,1
+jammu & kashmir,kishtwar,0,0.51785713,1
+jammu & kashmir,udhampur,0,0.82530123,1
+jammu & kashmir,reasi,0,0.7062937,1
+jammu & kashmir,jammu,0,0.87333333,1
+jammu & kashmir,samba,0,0.89999998,1
+himachal pradesh,chamba,0,0.70198673,1
+himachal pradesh,kangra,0,0.75816995,1
+himachal pradesh,lahul & spiti,0,0.89215684,1
+himachal pradesh,kullu,0,0.79310346,1
+himachal pradesh,mandi,0,0.83941609,1
+himachal pradesh,hamirpur,0,0.84848487,1
+himachal pradesh,una,0,0.74576271,1
+himachal pradesh,bilaspur,0,0.76086956,1
+himachal pradesh,solan,0,0.79259259,1
+himachal pradesh,sirmaur,0,0.63095236,1
+himachal pradesh,shimla,0,0.9236111,1
+himachal pradesh,kinnaur,0,0.86400002,1
+punjab,kapurthala,0,0.67816091,1
+punjab,jalandhar,0,0.70289856,1
+punjab,hoshiarpur,0,0.71764708,1
+punjab,shahid bhagat singh nagar,0,0.6583851,1
+punjab,fatehgarh sahib,0,0.6392405,1
+punjab,ludhiana,0,0.70769233,1
+punjab,moga,0,0.60377359,1
+punjab,muktsar,0,0.46913579,1
+punjab,faridkot,0,0.53237408,1
+punjab,bathinda,0,0.40268457,1
+punjab,mansa,0,0.36627907,1
+punjab,patiala,0,0.58385092,1
+punjab,amritsar,0,0.63095236,1
+punjab,tarn taran,0,0.52287585,1
+punjab,rupnagar,0,0.6134454,1
+punjab,sahibzada ajit singh nagar,0,0.69158876,1
+punjab,sangrur,0,0.58579886,1
+punjab,barnala,0,0.68666667,1
+chandigarh,chandigarh,0,0.70542634,1
+uttarakhand,uttarkashi,0,0.55813956,1
+uttarakhand,chamoli,0,0.66666669,1
+uttarakhand,rudraprayag,0,0.71153843,1
+uttarakhand,tehri garhwal,0,0.56291389,1
+uttarakhand,dehradun,0,0.67796612,1
+uttarakhand,garhwal,0,0.65811968,1
+uttarakhand,pithoragarh,0,0.72392637,1
+uttarakhand,bageshwar,0,0.71527779,1
+uttarakhand,almora,0,0.85470086,1
+uttarakhand,champawat,0,0.69411767,1
+uttarakhand,nainital,0,0.66225165,1
+uttarakhand,udham singh nagar,0,0.47972974,1
+uttarakhand,hardwar,0,0.45864663,1
+haryana,panchkula,0,0.69444442,1
+haryana,ambala,0,0.61904764,1
+haryana,yamunanagar,0,0.54802263,1
+haryana,kurukshetra,0,0.53179193,1
+haryana,kaithal,0,0.36842105,1
+haryana,karnal,0,0.5219512,1
+haryana,panipat,0,0.43846157,1
+haryana,sonipat,0,0.59027779,1
+haryana,jind,0,0.42682931,1
+haryana,fatehabad,0,0.29012346,1
+haryana,sirsa,0,0.48387098,1
+haryana,hisar,0,0.42045453,1
+haryana,rohtak,0,0.70987654,1
+haryana,jhajjar,0,0.57553959,1
+haryana,mahendragarh,0,0.5724138,1
+haryana,rewari,0,0.56204379,1
+haryana,gurgaon,0,0.6695652,1
+haryana,mewat,0,0.25324675,1
+haryana,faridabad,0,0.54545456,1
+haryana,palwal,0,0.2918919,1
+rajasthan,ganganagar,0,0.50520831,1
+rajasthan,hanumangarh,0,0.45794392,1
+rajasthan,bikaner,0,0.40170941,1
+rajasthan,churu,0,0.48739493,1
+rajasthan,jhunjhunun,0,0.56310678,1
+rajasthan,alwar,0,0.46022728,1
+rajasthan,bharatpur,0,0.3924731,1
+rajasthan,dhaulpur,0,0.36158192,1
+rajasthan,karauli,0,0.32222223,1
+rajasthan,sawai madhopur,0,0.31413612,1
+rajasthan,dausa,0,0.33838382,1
+rajasthan,jaipur,0,0.53333336,1
+rajasthan,sikar,0,0.58373207,1
+rajasthan,nagaur,0,0.54615384,1
+rajasthan,jodhpur,0,0.60000002,1
+rajasthan,jaisalmer,0,0.56950676,1
+rajasthan,barmer,0,0.57758623,1
+rajasthan,jalor,0,0.56353593,1
+rajasthan,sirohi,0,0.4879227,1
+rajasthan,pali,0,0.68421054,1
+rajasthan,ajmer,0,0.55769229,1
+rajasthan,tonk,0,0.54010695,1
+rajasthan,bundi,0,0.3952381,1
+rajasthan,bhilwara,0,0.56804734,1
+rajasthan,rajsamand,0,0.5582822,1
+rajasthan,dungarpur,0,0.53191489,1
+rajasthan,banswara,0,0.30158731,1
+rajasthan,chittaurgarh,0,0.50666666,1
+rajasthan,kota,0,0.61413044,1
+rajasthan,baran,0,0.3918919,1
+rajasthan,jhalawar,0,0.33879781,1
+rajasthan,udaipur,0,0.46969697,1
+rajasthan,pratapgarh,0,0.32142857,1
+uttar pradesh,saharanpur,0,0.40677965,1
+uttar pradesh,bijnor,0,0.39613527,1
+uttar pradesh,rampur,0,0.3548387,1
+uttar pradesh,jyotiba phule nagar,0,0.41,1
+uttar pradesh,meerut,0,0.52307695,1
+uttar pradesh,baghpat,0,0.45728645,1
+uttar pradesh,gautam buddha nagar,0,0.56074768,1
+uttar pradesh,bulandshahr,0,0.49324325,1
+uttar pradesh,aligarh,0,0.40522876,1
+uttar pradesh,mahamaya nagar,0,0.44324324,1
+uttar pradesh,mathura,0,0.30612245,1
+uttar pradesh,agra,0,0.39884394,1
+uttar pradesh,firozabad,0,0.41346154,1
+uttar pradesh,mainpuri,0,0.49206349,1
+uttar pradesh,bareilly,0,0.33812949,1
+uttar pradesh,pilibhit,0,0.38650307,1
+uttar pradesh,shahjahanpur,0,0.30612245,1
+uttar pradesh,kheri,0,0.28488371,1
+uttar pradesh,sitapur,0,0.23333333,1
+uttar pradesh,hardoi,0,0.31818181,1
+uttar pradesh,unnao,0,0.44444445,1
+uttar pradesh,lucknow,0,0.55624998,1
+uttar pradesh,farrukhabad,0,0.40101522,1
+uttar pradesh,kannauj,0,0.40796021,1
+uttar pradesh,etawah,0,0.5,1
+uttar pradesh,auraiya,0,0.43093926,1
+uttar pradesh,kanpur dehat,0,0.40123457,1
+uttar pradesh,kanpur nagar,0,0.64327484,1
+uttar pradesh,jalaun,0,0.37185928,1
+uttar pradesh,jhansi,0,0.55947137,1
+uttar pradesh,lalitpur,0,0.2820513,1
+uttar pradesh,hamirpur,0,0.41626793,1
+uttar pradesh,mahoba,0,0.3561644,1
+uttar pradesh,banda,0,0.30337077,1
+uttar pradesh,chitrakoot,0,0.37951806,1
+uttar pradesh,fatehpur,0,0.497006,1
+uttar pradesh,pratapgarh,0,0.51960784,1
+uttar pradesh,kaushambi,0,0.41025642,1
+uttar pradesh,allahabad,0,0.45890412,1
+uttar pradesh,bara banki,0,0.47849461,1
+uttar pradesh,faizabad,0,0.52017939,1
+uttar pradesh,ambedkar nagar,0,0.4858757,1
+uttar pradesh,bahraich,0,0.3935484,1
+uttar pradesh,shrawasti,0,0.53475934,1
+uttar pradesh,balrampur,0,0.53846157,1
+uttar pradesh,gonda,0,0.52356023,1
+uttar pradesh,siddharthnagar,0,0.61751151,1
+uttar pradesh,basti,0,0.54751134,1
+uttar pradesh,sant kabir nagar,0,0.54497355,1
+uttar pradesh,mahrajganj,0,0.57297295,1
+uttar pradesh,gorakhpur,0,0.60869563,1
+uttar pradesh,kushinagar,0,0.61734694,1
+uttar pradesh,deoria,0,0.5970149,1
+uttar pradesh,azamgarh,0,0.47999996,1
+uttar pradesh,mau,0,0.61979169,1
+uttar pradesh,ballia,0,0.52201259,1
+uttar pradesh,jaunpur,0,0.6514523,1
+uttar pradesh,ghazipur,0,0.46009389,1
+uttar pradesh,chandauli,0,0.44808742,1
+uttar pradesh,varanasi,0,0.55882353,1
+uttar pradesh,sant ravidas nagar (bhadohi),0,0.52601159,1
+uttar pradesh,mirzapur,0,0.4770115,1
+uttar pradesh,sonbhadra,0,0.39393941,1
+uttar pradesh,etah,0,0.40101522,1
+uttar pradesh,kanshiram nagar,0,0.4413408,1
+bihar,pashchim champaran,0,0.46753246,1
+bihar,purba champaran,0,0.59036142,1
+bihar,sheohar,0,0.4893617,1
+bihar,sitamarhi,0,0.58787876,1
+bihar,madhubani,0,0.58940399,1
+bihar,supaul,0,0.51572329,1
+bihar,araria,0,0.40983605,1
+bihar,kishanganj,0,0.38181818,1
+bihar,purnia,0,0.55757576,1
+bihar,katihar,0,0.37037036,1
+bihar,madhepura,0,0.48587573,1
+bihar,saharsa,0,0.53383458,1
+bihar,darbhanga,0,0.52258062,1
+bihar,muzaffarpur,0,0.503268,1
+bihar,gopalganj,0,0.57692307,1
+bihar,siwan,0,0.51648355,1
+bihar,saran,0,0.44692737,1
+bihar,vaishali,0,0.51977402,1
+bihar,samastipur,0,0.56578946,1
+bihar,begusarai,0,0.48167542,1
+bihar,khagaria,0,0.53439152,1
+bihar,bhagalpur,0,0.55367231,1
+bihar,banka,0,0.5766871,1
+bihar,munger,0,0.54970759,1
+bihar,lakhisarai,0,0.48404256,1
+bihar,sheikhpura,0,0.42514971,1
+bihar,nalanda,0,0.48666668,1
+bihar,patna,0,0.5804196,1
+bihar,bhojpur,0,0.44827586,1
+bihar,buxar,0,0.48235294,1
+bihar,kaimur (bhabua),0,0.45348838,1
+bihar,rohtas,0,0.43093923,1
+bihar,aurangabad,0,0.44943821,1
+bihar,gaya,0,0.42708334,1
+bihar,nawada,0,0.48192769,1
+bihar,jamui,0,0.5582822,1
+bihar,jehanabad,0,0.35593221,1
+bihar,arwal,0,0.37888196,1
+sikkim,north  district,0,0.81967211,1
+sikkim,west district,0,0.85802472,1
+sikkim,south district,0,0.81415927,1
+sikkim,east district,0,0.87155962,1
+arunachal pradesh,tawang,0,0.80124223,1
+arunachal pradesh,west kameng,0,0.82954544,1
+arunachal pradesh,east kameng,0,0.70921987,1
+arunachal pradesh,papum pare,0,0.85093164,1
+arunachal pradesh,upper subansiri,0,0.70547944,1
+arunachal pradesh,upper siang,0,0.81451613,1
+arunachal pradesh,changlang,0,0.76530612,1
+arunachal pradesh,lower subansiri,0,0.83749998,1
+arunachal pradesh,dibang valley,0,0.88524598,1
+arunachal pradesh,lower dibang valley,0,0.91208792,1
+arunachal pradesh,anjaw,0,0.77868855,1
+nagaland,mon,0,0.76712328,1
+nagaland,mokokchung,0,0.87999994,1
+nagaland,zunheboto,0,0.88461536,1
+nagaland,wokha,0,0.91891885,1
+nagaland,dimapur,0,0.87898088,1
+nagaland,phek,0,0.77999997,1
+nagaland,tuensang,0,0.64615387,1
+nagaland,longleng,0,0.74647886,1
+nagaland,kiphire,0,0.7280702,1
+nagaland,kohima,0,0.83211678,1
+nagaland,peren,0,0.75,1
+manipur,senapati,0,0.70491803,1
+manipur,tamenglong,0,0.61313868,1
+manipur,churachandpur,0,0.78985512,1
+manipur,bishnupur,0,0.64197528,1
+manipur,thoubal,0,0.72151899,1
+manipur,imphal west,0,0.73722625,1
+manipur,imphal east,0,0.72727275,1
+manipur,ukhrul,0,0.66037738,1
+manipur,chandel,0,0.80000001,1
+mizoram,mamit,0,0.72611463,1
+mizoram,kolasib,0,0.84722221,1
+mizoram,aizawl,0,0.87943256,1
+mizoram,champhai,0,0.86538464,1
+mizoram,serchhip,0,0.88372093,1
+mizoram,lunglei,0,0.75757575,1
+mizoram,lawngtlai,0,0.62941176,1
+mizoram,saiha,0,0.74242425,1
+tripura,dhalai,0,0.40625,1
+meghalaya,south garo hills,0,0.72727275,1
+meghalaya,ribhoi,0,0.61931819,1
+meghalaya,east khasi hills,0,0.68263471,1
+assam,kokrajhar,0,0.5354839,1
+assam,goalpara,0,0.47674417,1
+assam,barpeta,0,0.50609756,1
+assam,morigaon,0,0.55696201,1
+assam,lakhimpur,0,0.61240309,1
+assam,dhemaji,0,0.54545456,1
+assam,tinsukia,0,0.5212121,1
+assam,dibrugarh,0,0.57861638,1
+assam,golaghat,0,0.51999998,1
+assam,dima hasao,0,0.64516127,1
+assam,cachar,0,0.57718122,1
+assam,karimganj,0,0.58125001,1
+assam,hailakandi,0,0.3974359,1
+assam,bongaigaon,0,0.62195122,1
+assam,chirang,0,0.53801167,1
+assam,kamrup,0,0.57352942,1
+assam,kamrup metropolitan,0,0.83536583,1
+assam,nalbari,0,0.53896105,1
+assam,baksa,0,0.65662652,1
+assam,darrang,0,0.47999999,1
+assam,udalguri,0,0.55747128,1
+west bengal,darjiling,0,0.69461077,1
+west bengal,jalpaiguri,0,0.5714286,1
+west bengal,koch bihar,0,0.42011833,1
+west bengal,uttar dinajpur,0,0.42780748,1
+west bengal,dakshin dinajpur,0,0.59302324,1
+west bengal,maldah,0,0.36875001,1
+west bengal,murshidabad,0,0.31097561,1
+west bengal,birbhum,0,0.37869823,1
+west bengal,nadia,0,0.43243241,1
+west bengal,north twenty four parganas,0,0.63333333,1
+west bengal,hugli,0,0.58757061,1
+west bengal,bankura,0,0.30985916,1
+west bengal,puruliya,0,0.26190478,1
+west bengal,haora,0,0.65030676,1
+west bengal,kolkata,0,0.84353739,1
+west bengal,south twenty four parganas,0,0.49404761,1
+west bengal,paschim medinipur,0,0.38513511,1
+west bengal,purba medinipur,0,0.52173913,1
+jharkhand,garhwa,0,0.41807908,1
+jharkhand,chatra,0,0.33939394,1
+jharkhand,kodarma,0,0.43902439,1
+jharkhand,giridih,0,0.48466256,1
+jharkhand,deoghar,0,0.4519774,1
+jharkhand,godda,0,0.46456692,1
+jharkhand,sahibganj,0,0.32885906,1
+jharkhand,pakur,0,0.36000001,1
+jharkhand,dhanbad,0,0.46961325,1
+jharkhand,bokaro,0,0.55621302,1
+jharkhand,lohardaga,0,0.52564102,1
+jharkhand,purbi singhbhum,0,0.60389608,1
+jharkhand,palamu,0,0.48275858,1
+jharkhand,latehar,0,0.40659341,1
+jharkhand,hazaribagh,0,0.56626505,1
+jharkhand,ramgarh,0,0.55494505,1
+jharkhand,dumka,0,0.55303031,1
+jharkhand,jamtara,0,0.45333335,1
+jharkhand,ranchi,0,0.67796612,1
+jharkhand,khunti,0,0.41935483,1
+jharkhand,gumla,0,0.37566137,1
+jharkhand,simdega,0,0.40764335,1
+jharkhand,pashchimi singhbhum,0,0.33802816,1
+jharkhand,saraikela-kharsawan,0,0.55440414,1
+odisha,bargarh,0,0.37599999,1
+odisha,jharsuguda,0,0.5106383,1
+odisha,sambalpur,0,0.52592593,1
+odisha,debagarh,0,0.50735295,1
+odisha,sundargarh,0,0.59124088,1
+odisha,kendujhar,0,0.40816328,1
+odisha,mayurbhanj,0,0.4148148,1
+odisha,baleshwar,0,0.5869565,1
+odisha,bhadrak,0,0.62987012,1
+odisha,kendrapara,0,0.64516127,1
+odisha,jagatsinghapur,0,0.7352941,1
+odisha,cuttack,0,0.54098362,1
+odisha,jajapur,0,0.53061223,1
+odisha,dhenkanal,0,0.55833334,1
+odisha,anugul,0,0.56725144,1
+odisha,nayagarh,0,0.61971831,1
+odisha,khordha,0,0.6418919,1
+odisha,puri,0,0.57037038,1
+odisha,ganjam,0,0.52666664,1
+odisha,gajapati,0,0.36301368,1
+odisha,kandhamal,0,0.41958043,1
+odisha,baudh,0,0.35185185,1
+odisha,subarnapur,0,0.40136054,1
+odisha,balangir,0,0.49999997,1
+odisha,nuapada,0,0.31756756,1
+odisha,kalahandi,0,0.37912086,1
+odisha,rayagada,0,0.30463576,1
+odisha,nabarangapur,0,0.27922079,1
+odisha,koraput,0,0.29299363,1
+odisha,malkangiri,0,0.32515338,1
+chhattisgarh,koriya,0,0.41007194,1
+chhattisgarh,jashpur,0,0.39393941,1
+chhattisgarh,raigarh,0,0.40845072,1
+chhattisgarh,korba,0,0.49707603,1
+chhattisgarh,janjgir - champa,0,0.41958043,1
+chhattisgarh,kabeerdham,0,0.30075186,1
+chhattisgarh,rajnandgaon,0,0.37125748,1
+chhattisgarh,mahasamund,0,0.36312848,1
+chhattisgarh,dhamtari,0,0.4217687,1
+chhattisgarh,uttar bastar kanker,0,0.37692308,1
+chhattisgarh,narayanpur,0,0.40462428,1
+chhattisgarh,bijapur,0,0.35882354,1
+madhya pradesh,sheopur,0,0.28187919,1
+madhya pradesh,morena,0,0.42675158,1
+madhya pradesh,bhind,0,0.41007197,1
+madhya pradesh,gwalior,0,0.43478262,1
+madhya pradesh,datia,0,0.37414965,1
+madhya pradesh,shivpuri,0,0.27102804,1
+madhya pradesh,tikamgarh,0,0.26804122,1
+madhya pradesh,chhatarpur,0,0.33742332,1
+madhya pradesh,panna,0,0.34810126,1
+madhya pradesh,sagar,0,0.32098764,1
+madhya pradesh,damoh,0,0.35460994,1
+madhya pradesh,satna,0,0.46067414,1
+madhya pradesh,rewa,0,0.41904762,1
+madhya pradesh,umaria,0,0.25862068,1
+madhya pradesh,neemuch,0,0.45238096,1
+madhya pradesh,mandsaur,0,0.33333334,1
+madhya pradesh,ratlam,0,0.31724137,1
+madhya pradesh,ujjain,0,0.53714287,1
+madhya pradesh,dewas,0,0.39459461,1
+madhya pradesh,dhar,0,0.44827583,1
+madhya pradesh,indore,0,0.60344827,1
+madhya pradesh,khargone (west nimar),0,0.34146342,1
+madhya pradesh,barwani,0,0.22285715,1
+madhya pradesh,rajgarh,0,0.30882353,1
+madhya pradesh,vidisha,0,0.32704404,1
+madhya pradesh,bhopal,0,0.42857146,1
+madhya pradesh,sehore,0,0.44516128,1
+madhya pradesh,raisen,0,0.2888889,1
+madhya pradesh,betul,0,0.40490797,1
+madhya pradesh,harda,0,0.328125,1
+madhya pradesh,hoshangabad,0,0.38036808,1
+madhya pradesh,katni,0,0.30208334,1
+madhya pradesh,jabalpur,0,0.18181819,1
+madhya pradesh,narsimhapur,0,0.40935671,1
+madhya pradesh,dindori,0,0.2977528,1
+madhya pradesh,mandla,0,0.31927711,1
+madhya pradesh,chhindwara,0,0.33834586,1
+madhya pradesh,seoni,0,0.32704404,1
+madhya pradesh,balaghat,0,0.55038762,1
+madhya pradesh,guna,0,0.28658536,1
+madhya pradesh,ashoknagar,0,0.20454545,1
+madhya pradesh,shahdol,0,0.28787878,1
+madhya pradesh,anuppur,0,0.32236841,1
+madhya pradesh,sidhi,0,0.46583855,1
+madhya pradesh,singrauli,0,0.27500001,1
+madhya pradesh,jhabua,0,0.23741007,1
+madhya pradesh,alirajpur,0,0.27388534,1
+madhya pradesh,khandwa (east nimar),0,0.21428572,1
+madhya pradesh,burhanpur,0,0.3125,1
+gujarat,kachchh,0,0.50279331,1
+gujarat,banas kantha,0,0.37588653,1
+gujarat,patan,0,0.38323355,1
+gujarat,mahesana,0,0.47413793,1
+gujarat,gandhinagar,0,0.48739496,1
+gujarat,porbandar,0,0.57647061,1
+gujarat,amreli,0,0.36496347,1
+gujarat,anand,0,0.442029,1
+gujarat,dohad,0,0.24431819,1
+gujarat,narmada,0,0.32846716,1
+gujarat,bharuch,0,0.42975205,1
+gujarat,the dangs,0,0.33082706,1
+gujarat,navsari,0,0.63758391,1
+gujarat,valsad,0,0.6381579,1
+gujarat,surat,0,0.56818181,1
+gujarat,tapi,0,0.46000001,1
+dadra & nagar haveli and daman & diu,diu,0,0.70322579,1
+dadra & nagar haveli and daman & diu,daman,0,0.76377952,1
+dadra & nagar haveli and daman & diu,dadra & nagar haveli,0,0.56643355,1
+maharashtra,nandurbar,0,0.23684211,1
+maharashtra,dhule,0,0.3561644,1
+maharashtra,jalgaon,0,0.35384616,1
+maharashtra,buldana,0,0.38787875,1
+maharashtra,akola,0,0.36231884,1
+maharashtra,washim,0,0.37349397,1
+maharashtra,amravati,0,0.4539474,1
+maharashtra,wardha,0,0.51724136,1
+maharashtra,nagpur,0,0.67045456,1
+maharashtra,bhandara,0,0.42968753,1
+maharashtra,gondiya,0,0.43478259,1
+maharashtra,gadchiroli,0,0.24264705,1
+maharashtra,chandrapur,0,0.44202903,1
+maharashtra,yavatmal,0,0.34146342,1
+maharashtra,nanded,0,0.34337351,1
+maharashtra,hingoli,0,0.22891565,1
+maharashtra,parbhani,0,0.30555555,1
+maharashtra,jalna,0,0.43609023,1
+maharashtra,aurangabad,0,0.3941606,1
+maharashtra,nashik,0,0.53787881,1
+maharashtra,mumbai suburban,0,0.83823532,1
+maharashtra,mumbai,0,0.79710144,1
+maharashtra,raigarh,0,0.58666664,1
+maharashtra,pune,0,0.76027399,1
+maharashtra,ahmadnagar,0,0.41059604,1
+maharashtra,bid,0,0.3968254,1
+maharashtra,latur,0,0.40441176,1
+maharashtra,osmanabad,0,0.43307087,1
+maharashtra,solapur,0,0.42741936,1
+maharashtra,satara,0,0.64335662,1
+maharashtra,ratnagiri,0,0.60483873,1
+maharashtra,sindhudurg,0,0.7227723,1
+maharashtra,kolhapur,0,0.4437086,1
+maharashtra,sangli,0,0.66417909,1
+andhra pradesh,srikakulam,0,0.58823532,1
+andhra pradesh,vizianagaram,0,0.32824427,1
+andhra pradesh,visakhapatnam,0,0.65811968,1
+andhra pradesh,east godavari,0,0.50847459,1
+andhra pradesh,west godavari,0,0.58461541,1
+andhra pradesh,krishna,0,0.50406504,1
+andhra pradesh,guntur,0,0.38532114,1
+andhra pradesh,prakasam,0,0.36936936,1
+andhra pradesh,sri potti sriramulu nellore,0,0.47260273,1
+andhra pradesh,y.s.r.,0,0.60144925,1
+andhra pradesh,kurnool,0,0.3537415,1
+andhra pradesh,anantapur,0,0.46923077,1
+andhra pradesh,chittoor,0,0.44537815,1
+karnataka,belgaum,0,0.55279505,1
+karnataka,bagalkot,0,0.47368419,1
+karnataka,bijapur,0,0.53020132,1
+karnataka,bidar,0,0.45348838,1
+karnataka,raichur,0,0.38690478,1
+karnataka,koppal,0,0.40909094,1
+karnataka,gadag,0,0.36363637,1
+karnataka,dharwad,0,0.51923078,1
+karnataka,uttara kannada,0,0.69536424,1
+karnataka,haveri,0,0.3859649,1
+karnataka,bellary,0,0.39041099,1
+karnataka,chitradurga,0,0.60000002,1
+karnataka,davanagere,0,0.60000002,1
+karnataka,shimoga,0,0.66467065,1
+karnataka,udupi,0,0.85029942,1
+karnataka,chikmagalur,0,0.68345326,1
+karnataka,tumkur,0,0.7368421,1
+karnataka,bangalore,0,0.88617885,1
+karnataka,mandya,0,0.73134327,1
+karnataka,hassan,0,0.63354039,1
+karnataka,dakshina kannada,0,0.77777779,1
+karnataka,kodagu,0,0.77241379,1
+karnataka,mysore,0,0.45522389,1
+karnataka,chamarajanagar,0,0.57714283,1
+karnataka,gulbarga,0,0.5625,1
+karnataka,yadgir,0,0.29142857,1
+karnataka,kolar,0,0.62162161,1
+karnataka,chikkaballapura,0,0.65068495,1
+karnataka,bangalore rural,0,0.75694442,1
+karnataka,ramanagara,0,0.77118641,1
+goa,north goa,0,0.91176468,1
+goa,south goa,0,0.91616768,1
+lakshadweep,lakshadweep,0,0.84393066,1
+kerala,kasaragod,0,0.875,1
+kerala,kannur,0,0.88524586,1
+kerala,wayanad,0,0.79130435,1
+kerala,kozhikode,0,0.84496123,1
+kerala,malappuram,0,0.86792451,1
+kerala,palakkad,0,0.85271317,1
+kerala,thrissur,0,0.84761912,1
+kerala,ernakulam,0,0.91150445,1
+kerala,idukki,0,0.84684682,1
+kerala,kottayam,0,0.86792451,1
+kerala,alappuzha,0,0.75454545,1
+kerala,pathanamthitta,0,0.9130435,1
+kerala,kollam,0,0.86842108,1
+kerala,thiruvananthapuram,0,0.91818184,1
+tamil nadu,thiruvallur,0,0.81300813,1
+tamil nadu,chennai,0,0.86792451,1
+tamil nadu,kancheepuram,0,0.77319586,1
+tamil nadu,vellore,0,0.71200001,1
+tamil nadu,tiruvannamalai,0,0.62244898,1
+tamil nadu,viluppuram,0,0.63934427,1
+tamil nadu,salem,0,0.61818182,1
+tamil nadu,namakkal,0,0.77450973,1
+tamil nadu,erode,0,0.78151262,1
+tamil nadu,the nilgiris,0,0.875,1
+tamil nadu,dindigul,0,0.70921987,1
+tamil nadu,karur,0,0.70192307,1
+tamil nadu,tiruchirappalli,0,0.67676765,1
+tamil nadu,perambalur,0,0.68932039,1
+tamil nadu,ariyalur,0,0.71428567,1
+tamil nadu,cuddalore,0,0.76999998,1
+tamil nadu,nagapattinam,0,0.71304345,1
+tamil nadu,thiruvarur,0,0.69841272,1
+tamil nadu,thanjavur,0,0.77884614,1
+tamil nadu,pudukkottai,0,0.68217063,1
+tamil nadu,sivaganga,0,0.82222229,1
+tamil nadu,madurai,0,0.8309859,1
+tamil nadu,theni,0,0.67105263,1
+tamil nadu,virudhunagar,0,0.78512394,1
+tamil nadu,ramanathapuram,0,0.74509805,1
+tamil nadu,thoothukkudi,0,0.84615386,1
+tamil nadu,tirunelveli,0,0.72222221,1
+tamil nadu,kanniyakumari,0,0.88983053,1
+tamil nadu,dharmapuri,0,0.66666669,1
+tamil nadu,krishnagiri,0,0.69718307,1
+tamil nadu,coimbatore,0,0.86915886,1
+tamil nadu,tiruppur,0,0.7263158,1
+puducherry,yanam,0,0.7482993,1
+puducherry,puducherry,0,0.78861791,1
+puducherry,mahe,0,0.93150681,1
+puducherry,karaikal,0,0.80769229,1
+andaman & nicobar islands,nicobars,0,0.63999999,1
+andaman & nicobar islands,north  & middle andaman,0,0.84615386,1
+andaman & nicobar islands,south andaman,0,0.80272108,1
+arunachal pradesh,east siang,0,0.85207099,1
+arunachal pradesh,kra daadi,0,0.74074072,1
+arunachal pradesh,kurung kumey,0,0.75,1
+arunachal pradesh,lohit,0,0.75155282,1
+arunachal pradesh,longding,0,0.72784811,1
+arunachal pradesh,namsai,0,0.59036142,1
+arunachal pradesh,siang,0,0.89880955,1
+arunachal pradesh,tirap,0,0.72077924,1
+arunachal pradesh,west siang,0,0.77205884,1
+assam,biswanath,0,0.56790125,1
+assam,charaideo,0,0.58888888,1
+assam,dhubri,0,0.54605263,1
+assam,hojai,0,0.6241135,1
+assam,jorhat,0,0.53750002,1
+assam,karbi anglong,0,0.62352943,1
+assam,majuli,0,0.58522725,1
+assam,nagaon,0,0.56983238,1
+assam,sivasagar,0,0.6118421,1
+assam,sonitpur,0,0.67088604,1
+assam,south salmara mancachar,0,0.51445085,1
+assam,west karbi anglong,0,0.47058827,1
+chhattisgarh,balod,0,0.44848484,1
+chhattisgarh,baloda bazar,0,0.44378698,1
+chhattisgarh,balrampur,0,0.30935252,1
+chhattisgarh,bastar,0,0.40000001,1
+chhattisgarh,bemetara,0,0.23943664,1
+chhattisgarh,bilaspur,0,0.39473686,1
+chhattisgarh,dantewada,0,0.48369566,1
+chhattisgarh,durg,0,0.59770113,1
+chhattisgarh,gariyaband,0,0.32098764,1
+chhattisgarh,kodagaon,0,0.30769232,1
+chhattisgarh,mungeli,0,0.2932331,1
+chhattisgarh,raipur,0,0.51351351,1
+chhattisgarh,sukma,0,0.3463687,1
+chhattisgarh,surajpur,0,0.30215827,1
+chhattisgarh,surguja,0,0.33774835,1
+nct of delhi,central,0,0.72519082,1
+nct of delhi,east,0,0.67948717,1
+nct of delhi,new delhi,0,0.68055558,1
+nct of delhi,north,0,0.70503598,1
+nct of delhi,north east,0,0.61971831,1
+nct of delhi,north west,0,0.79729736,1
+nct of delhi,shahdara,0,0.81366462,1
+nct of delhi,south,0,0.77181208,1
+nct of delhi,south east,0,0.7764706,1
+nct of delhi,south west,0,0.84615386,1
+nct of delhi,west,0,0.716129,1
+gujarat,ahmadabad,0,0.73972601,1
+gujarat,aravali,0,0.27380952,1
+gujarat,bhavnagar,0,0.35606059,1
+gujarat,botad,0,0.41726619,1
+gujarat,chhota udaipur,0,0.23636363,1
+gujarat,devbhumi dwarka,0,0.4427861,1
+gujarat,gir somnath,0,0.47752807,1
+gujarat,jamnagar,0,0.66257668,1
+gujarat,junagadh,0,0.42105263,1
+gujarat,kheda,0,0.24203822,1
+gujarat,mahisagar,0,0.33093524,1
+gujarat,morbi,0,0.54347825,1
+gujarat,panch mahals,0,0.26881722,1
+gujarat,rajkot,0,0.65306121,1
+gujarat,sabar kantha,0,0.4375,1
+gujarat,surendranagar,0,0.42857143,1
+gujarat,vadodara,0,0.61764705,1
+haryana,bhiwani,0,0.39506173,1
+haryana,charkhi dadri,0,0.54098362,1
+madhya pradesh,agar malwa,0,0.2173913,1
+madhya pradesh,shajapur,0,0.42774567,1
+maharashtra,palghar,0,0.61832058,1
+maharashtra,thane,0,0.64285713,1
+meghalaya,east garo hills,0,0.60301507,1
+meghalaya,east jantia hills,0,0.68095237,1
+meghalaya,north garo hills,0,0.52717394,1
+meghalaya,south west garo hills,0,0.56626505,1
+meghalaya,south west khasi hills,0,0.60220987,1
+meghalaya,west garo hills,0,0.86956519,1
+meghalaya,west jaintia hills,0,0.64367819,1
+meghalaya,west khasi hills,0,0.54404145,1
+punjab,fazilka,0,0.43016759,1
+punjab,firozpur,0,0.58385092,1
+punjab,gurdaspur,0,0.66459626,1
+punjab,pathankot,0,0.74045801,1
+telangana,adilabad,0,0.40397349,1
+telangana,bhadradri kothagudem,0,0.52702701,1
+telangana,hyderabad,0,0.74257427,1
+telangana,jagitial,0,0.72483224,1
+telangana,jangoan,0,0.56,1
+telangana,jayashankar bhupalapally,0,0.55371898,1
+telangana,jogulamba gadwal,0,0.3602941,1
+telangana,kamareddy,0,0.44137931,1
+telangana,karimnagar,0,0.66666669,1
+telangana,khammam,0,0.54482758,1
+telangana,komaram bheem asifabad,0,0.3125,1
+telangana,mahabubabad,0,0.41176471,1
+telangana,mahabubnagar,0,0.52258062,1
+telangana,mancherial,0,0.57575756,1
+telangana,medak,0,0.49253735,1
+telangana,medchal-malkajgiri,0,0.79527557,1
+telangana,nagarkurnool,0,0.53061223,1
+telangana,nalgonda,0,0.5673759,1
+telangana,nirmal,0,0.63114756,1
+telangana,nizamabad,0,0.65600002,1
+telangana,peddapalli,0,0.60283691,1
+telangana,rajanna sircilla,0,0.65734267,1
+telangana,ranga reddy,0,0.60000002,1
+telangana,sangareddy,0,0.66666669,1
+telangana,siddipet,0,0.68644071,1
+telangana,suryapet,0,0.51111114,1
+telangana,vikarabad,0,0.48461539,1
+telangana,wanaparthy,0,0.53793103,1
+telangana,warangal rural,0,0.49593499,1
+telangana,warangal urban,0,0.72027969,1
+telangana,yadadri bhuvanagiri,0,0.6948052,1
+tripura,gomati,0,0.54098362,1
+tripura,khowai,0,0.55479455,1
+tripura,north tripura,0,0.55033559,1
+tripura,sepahijala,0,0.49629632,1
+tripura,south tripura,0,0.47058824,1
+tripura,unakoti,0,0.45061725,1
+tripura,west tripura,0,0.65277779,1
+uttar pradesh,amethi,0,0.5139665,1
+uttar pradesh,budaun,0,0.28248587,1
+uttar pradesh,ghaziabad,0,0.5714286,1
+uttar pradesh,hapur,0,0.45273635,1
+uttar pradesh,moradabad,0,0.44692737,1
+uttar pradesh,muzaffarnagar,0,0.42857143,1
+uttar pradesh,rae bareli,0,0.42639595,1
+uttar pradesh,sambhal,0,0.32160804,1
+uttar pradesh,shamli,0,0.35449734,1
+uttar pradesh,sultanpur,0,0.41884816,1
+west bengal,paschim barddhaman,0,0.45882353,1
+west bengal,purba barddhaman,0,0.51704544,1
