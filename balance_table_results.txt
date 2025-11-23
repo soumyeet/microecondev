@@ -1,0 +1,24 @@
+PANEL A
+                 Variable  Treated (Mean)  Non-Treated (Mean)  T-stat  Nt  Nc
+             Age (Female)          30.550              30.528   0.209 230 470
+Formal Education (Female)           1.622               1.570   2.061 230 470
+      Literate (Female %)          79.170              77.192   2.069 230 470
+       Married (Female %)          71.249              70.712   1.266 230 470
+           Household Size           5.405               5.275   2.239 230 470
+  Urban Household (share)          27.777              27.117   0.395 230 470
+             Wealth Index           3.022               2.909   1.701 230 470
+
+PANEL B
+                  Variable  Treated (Mean)  Non-Treated (Mean)  T-stat  Nt  Nc
+               Female LFPR          21.578              21.442   0.117 209 365
+Male Currently Working (%)          74.480              74.661  -0.263 230 470
+
+PANEL C
+                           Variable  Treated (Mean)  Non-Treated (Mean)  T-stat  Nt  Nc
+         Justify Beating (Goes Out)           0.216               0.231  -1.223 230 470
+    Justify Beating (Neglects Kids)           0.269               0.316  -2.812 230 470
+     Experienced Emotional Violence           0.096               0.105  -1.694 230 470
+Experienced Physical Violence (Any)           0.044               0.043   0.008 230 470
+  Experienced Sexual Violence (Any)           2.579               2.812  -1.103 230 470
+          Experienced Severe Injury           0.050               0.055  -1.574 230 470
+             Husband Drinks Alcohol           0.209               0.239  -3.166 230 470
