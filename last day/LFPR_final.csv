@@ -1,4 +1,4 @@
-StateCode,State,DistrictCode,District,in_labour_force,lfpr_percent
+StateCode,State,DistrictCode,district,in_labour_force,lfpr_percent
 36,Telangana,1,adilabad,0.3265306055545807,32.65306091308594
 9,Uttar Pradesh,15,agra,0.0556900724768638,5.569007396697998
 24,Gujarat,7,ahmadabad,0.1434302926063537,14.343029022216797
